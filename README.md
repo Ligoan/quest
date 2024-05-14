@@ -1,1 +1,1 @@
-# *8코어 과정* **Quest Repository**
+# *코어 과정* **Quest Repository**
