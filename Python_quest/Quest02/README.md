@@ -1,4 +1,4 @@
-# 회문 판별 프로그램입니다.
+# 2gram 만들고 빈도수 높은 2gram 페어 찾기
 
 
 # AIFFEL Campus Code Peer Review Templete
