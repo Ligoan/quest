@@ -1,5 +1,4 @@
-# 회문 판별 프로그램입니다.
-
+# Avengers.txt.로부터 2_gram 만들고 빈도수 높은 2gram 페어 찾기
 
 # AIFFEL Campus Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
