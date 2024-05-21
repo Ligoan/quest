@@ -2,7 +2,7 @@
 
 
 # AIFFEL Campus Code Peer Review Templete
-- 코더 : 이동규
+- 코더 : 김동규
 - 리뷰어 : 강대식
 
 
