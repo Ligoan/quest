@@ -1,0 +1,850 @@
+Medal,Name,NOC,Height,Age,Weight,Sport,Event,Sex,Year,Season,Latitude,Longitude,Team,Nation
+Bronze Gold No\ Medal Silver,string,string,continuous,continuous,continuous,Aeronautics Alpine\ Skiing Alpinism Archery Art\ Competitions Athletics Badminton Baseball Basketball Basque\ Pelota Beach\ Volleyball Biathlon Bobsleigh Boxing Canoeing Cricket Croquet Cross\ Country\ Skiing Curling Cycling Diving Equestrianism Fencing Figure\ Skating Football Freestyle\ Skiing Golf Gymnastics Handball Hockey Ice\ Hockey Jeu\ De\ Paume Judo Lacrosse Luge Military\ Ski\ Patrol Modern\ Pentathlon Motorboating Nordic\ Combined Polo Racquets Rhythmic\ Gymnastics Roque Rowing Rugby Rugby\ Sevens Sailing Shooting Short\ Track\ Speed\ Skating Skeleton Ski\ Jumping Snowboarding Softball Speed\ Skating Swimming Synchronized\ Swimming Table\ Tennis Taekwondo Tennis Trampolining Triathlon Tug-Of-War Volleyball Water\ Polo Weightlifting Wrestling,"Aeronautics\ Mixed\ Aeronautics Alpine\ Skiing\ Men's\ Combined Alpine\ Skiing\ Men's\ Downhill Alpine\ Skiing\ Men's\ Giant\ Slalom Alpine\ Skiing\ Men's\ Slalom Alpine\ Skiing\ Men's\ Super\ G Alpine\ Skiing\ Women's\ Combined Alpine\ Skiing\ Women's\ Downhill Alpine\ Skiing\ Women's\ Giant\ Slalom Alpine\ Skiing\ Women's\ Slalom Alpine\ Skiing\ Women's\ Super\ G Alpinism\ Mixed\ Alpinism Archery\ Men's\ Au\ Chapelet,\ 33\ metres Archery\ Men's\ Au\ Chapelet,\ 50\ metres Archery\ Men's\ Au\ Cordon\ Dore,\ 33\ metres Archery\ Men's\ Au\ Cordon\ Dore,\ 50\ metres Archery\ Men's\ Championnat\ Du\ Monde Archery\ Men's\ Continental\ Style Archery\ Men's\ Double\ American\ Round Archery\ Men's\ Double\ York\ Round Archery\ Men's\ Individual Archery\ Men's\ Pole\ Archery,\ Large\ Birds,\ Individual Archery\ Men's\ Pole\ Archery,\ Large\ Birds,\ Team Archery\ Men's\ Pole\ Archery,\ Small\ Birds,\ Individual Archery\ Men's\ Pole\ Archery,\ Small\ Birds,\ Team Archery\ Men's\ Sur\ La\ Perche\ a\ La\ Herse Archery\ Men's\ Sur\ La\ Perche\ a\ La\ Pyramide Archery\ Men's\ Target\ Archery,\ 28\ metres,\ Individual Archery\ Men's\ Target\ Archery,\ 28\ metres,\ Team Archery\ Men's\ Target\ Archery,\ 33\ metres,\ Individual Archery\ Men's\ Target\ Archery,\ 33\ metres,\ Team Archery\ Men's\ Target\ Archery,\ 50\ metres,\ Individual Archery\ Men's\ Target\ Archery,\ 50\ metres,\ Team Archery\ Men's\ Team Archery\ Men's\ Team\ Round Archery\ Men's\ Unknown\ Event Archery\ Women's\ Double\ Columbia\ Round Archery\ Women's\ Double\ National\ Round Archery\ Women's\ Individual Archery\ Women's\ Team Archery\ Women's\ Team\ Round Art\ Competitions\ Mixed\ Architecture Art\ Competitions\ Mixed\ Architecture,\ Architectural\ Designs Art\ Competitions\ Mixed\ Architecture,\ Designs\ For\ Town\ Planning Art\ Competitions\ Mixed\ Architecture,\ Unknown\ Event Art\ Competitions\ Mixed\ Literature Art\ Competitions\ Mixed\ Literature,\ Dramatic\ Works Art\ Competitions\ Mixed\ Literature,\ Epic\ Works Art\ Competitions\ Mixed\ Literature,\ Lyric\ Works Art\ Competitions\ Mixed\ Literature,\ Unknown\ Event Art\ Competitions\ Mixed\ Music Art\ Competitions\ Mixed\ Music,\ Compositions\ For\ Orchestra Art\ Competitions\ Mixed\ Music,\ Compositions\ For\ Solo\ Or\ Chorus Art\ Competitions\ Mixed\ Music,\ Instrumental\ And\ Chamber Art\ Competitions\ Mixed\ Music,\ Unknown\ Event Art\ Competitions\ Mixed\ Music,\ Vocals Art\ Competitions\ Mixed\ Painting Art\ Competitions\ Mixed\ Painting,\ Applied\ Arts Art\ Competitions\ Mixed\ Painting,\ Drawings\ And\ Water\ Colors Art\ Competitions\ Mixed\ Painting,\ Graphic\ Arts Art\ Competitions\ Mixed\ Painting,\ Paintings Art\ Competitions\ Mixed\ Painting,\ Unknown\ Event Art\ Competitions\ Mixed\ Sculpturing Art\ Competitions\ Mixed\ Sculpturing,\ Medals Art\ Competitions\ Mixed\ Sculpturing,\ Medals\ And\ Plaques Art\ Competitions\ Mixed\ Sculpturing,\ Medals\ And\ Reliefs Art\ Competitions\ Mixed\ Sculpturing,\ Reliefs Art\ Competitions\ Mixed\ Sculpturing,\ Statues Art\ Competitions\ Mixed\ Sculpturing,\ Unknown\ Event Art\ Competitions\ Mixed\ Unknown\ Event Athletics\ Men's\ 1,500\ metres Athletics\ Men's\ 1,500\ metres\ Walk Athletics\ Men's\ 1,600\ metres\ Medley\ Relay Athletics\ Men's\ 2,500\ metres\ Steeplechase Athletics\ Men's\ 2,590\ metres\ Steeplechase Athletics\ Men's\ 3\ mile,\ Team Athletics\ Men's\ 3,000\ metres\ Steeplechase Athletics\ Men's\ 3,000\ metres\ Walk Athletics\ Men's\ 3,000\ metres,\ Team Athletics\ Men's\ 3,200\ metres\ Steeplechase Athletics\ Men's\ 3,500\ metres\ Walk Athletics\ Men's\ 4\ mile,\ Team Athletics\ Men's\ 4\ x\ 100\ metres\ Relay Athletics\ Men's\ 4\ x\ 400\ metres\ Relay Athletics\ Men's\ 4,000\ metres\ Steeplechase Athletics\ Men's\ 5\ mile Athletics\ Men's\ 5,000\ metres Athletics\ Men's\ 5,000\ metres,\ Team Athletics\ Men's\ 10\ kilometres\ Walk Athletics\ Men's\ 10\ mile\ Walk Athletics\ Men's\ 10,000\ metres Athletics\ Men's\ 20\ kilometres\ Walk Athletics\ Men's\ 50\ kilometres\ Walk Athletics\ Men's\ 56-pound\ Weight\ Throw Athletics\ Men's\ 60\ metres Athletics\ Men's\ 100\ metres Athletics\ Men's\ 110\ metres\ Hurdles Athletics\ Men's\ 200\ metres Athletics\ Men's\ 200\ metres\ Hurdles Athletics\ Men's\ 400\ metres Athletics\ Men's\ 400\ metres\ Hurdles Athletics\ Men's\ 800\ metres Athletics\ Men's\ All-Around\ Championship Athletics\ Men's\ Cross-Country,\ Individual Athletics\ Men's\ Cross-Country,\ Team Athletics\ Men's\ Decathlon Athletics\ Men's\ Discus\ Throw Athletics\ Men's\ Discus\ Throw,\ Both\ Hands Athletics\ Men's\ Discus\ Throw,\ Greek\ Style Athletics\ Men's\ Hammer\ Throw Athletics\ Men's\ High\ Jump Athletics\ Men's\ Javelin\ Throw Athletics\ Men's\ Javelin\ Throw,\ Both\ Hands Athletics\ Men's\ Javelin\ Throw,\ Freestyle Athletics\ Men's\ Long\ Jump Athletics\ Men's\ Marathon Athletics\ Men's\ Pentathlon Athletics\ Men's\ Pentathlon\ (Ancient) Athletics\ Men's\ Pole\ Vault Athletics\ Men's\ Shot\ Put Athletics\ Men's\ Shot\ Put,\ Both\ Hands Athletics\ Men's\ Standing\ High\ Jump Athletics\ Men's\ Standing\ Long\ Jump Athletics\ Men's\ Standing\ Triple\ Jump Athletics\ Men's\ Stone\ Throw Athletics\ Men's\ Triple\ Jump Athletics\ Women's\ 1,500\ metres Athletics\ Women's\ 3,000\ metres Athletics\ Women's\ 3,000\ metres\ Steeplechase Athletics\ Women's\ 4\ x\ 100\ metres\ Relay Athletics\ Women's\ 4\ x\ 400\ metres\ Relay Athletics\ Women's\ 5,000\ metres Athletics\ Women's\ 10\ kilometres\ Walk Athletics\ Women's\ 10,000\ metres Athletics\ Women's\ 20\ kilometres\ Walk Athletics\ Women's\ 80\ metres\ Hurdles Athletics\ Women's\ 100\ metres Athletics\ Women's\ 100\ metres\ Hurdles Athletics\ Women's\ 200\ metres Athletics\ Women's\ 400\ metres Athletics\ Women's\ 400\ metres\ Hurdles Athletics\ Women's\ 800\ metres Athletics\ Women's\ Discus\ Throw Athletics\ Women's\ Hammer\ Throw Athletics\ Women's\ Heptathlon Athletics\ Women's\ High\ Jump Athletics\ Women's\ Javelin\ Throw Athletics\ Women's\ Long\ Jump Athletics\ Women's\ Marathon Athletics\ Women's\ Pentathlon Athletics\ Women's\ Pole\ Vault Athletics\ Women's\ Shot\ Put Athletics\ Women's\ Triple\ Jump Badminton\ Men's\ Doubles Badminton\ Men's\ Singles Badminton\ Mixed\ Doubles Badminton\ Women's\ Doubles Badminton\ Women's\ Singles Baseball\ Men's\ Baseball Basketball\ Men's\ Basketball Basketball\ Women's\ Basketball Basque\ Pelota\ Men's\ Two-Man\ Teams\ With\ Cesta Beach\ Volleyball\ Men's\ Beach\ Volleyball Beach\ Volleyball\ Women's\ Beach\ Volleyball Biathlon\ Men's\ 4\ x\ 7.5\ kilometres\ Relay Biathlon\ Men's\ 10\ kilometres\ Sprint Biathlon\ Men's\ 12.5\ kilometres\ Pursuit Biathlon\ Men's\ 15\ kilometres\ Mass\ Start Biathlon\ Men's\ 20\ kilometres Biathlon\ Mixed\ 2\ x\ 6\ kilometres\ and\ 2\ x\ 7.5\ kilometres\ Relay Biathlon\ Women's\ 3\ x\ 7.5\ kilometres\ Relay Biathlon\ Women's\ 4\ x\ 6\ kilometres\ Relay Biathlon\ Women's\ 4\ x\ 7.5\ kilometres\ Relay Biathlon\ Women's\ 7.5\ kilometres\ Sprint Biathlon\ Women's\ 10\ kilometres\ Pursuit Biathlon\ Women's\ 12.5\ kilometres\ Mass\ Start Biathlon\ Women's\ 15\ kilometres Bobsleigh\ Men's\ Four Bobsleigh\ Men's\ Four/Five Bobsleigh\ Men's\ Two Bobsleigh\ Women's\ Two Boxing\ Men's\ Bantamweight Boxing\ Men's\ Featherweight Boxing\ Men's\ Flyweight Boxing\ Men's\ Heavyweight Boxing\ Men's\ Light-Flyweight Boxing\ Men's\ Light-Heavyweight Boxing\ Men's\ Light-Middleweight Boxing\ Men's\ Light-Welterweight Boxing\ Men's\ Lightweight Boxing\ Men's\ Middleweight Boxing\ Men's\ Super-Heavyweight Boxing\ Men's\ Welterweight Boxing\ Women's\ Flyweight Boxing\ Women's\ Lightweight Boxing\ Women's\ Middleweight Canoeing\ Men's\ Canadian\ Doubles,\ 1,000\ metres Canoeing\ Men's\ Canadian\ Doubles,\ 10,000\ metres Canoeing\ Men's\ Canadian\ Doubles,\ 500\ metres Canoeing\ Men's\ Canadian\ Doubles,\ Slalom Canoeing\ Men's\ Canadian\ Singles,\ 1,000\ metres Canoeing\ Men's\ Canadian\ Singles,\ 10,000\ metres Canoeing\ Men's\ Canadian\ Singles,\ 200\ metres Canoeing\ Men's\ Canadian\ Singles,\ 500\ metres Canoeing\ Men's\ Canadian\ Singles,\ Slalom Canoeing\ Men's\ Folding\ Kayak\ Doubles,\ 10\ kilometres Canoeing\ Men's\ Folding\ Kayak\ Singles,\ 10\ kilometres Canoeing\ Men's\ Kayak\ Doubles,\ 1,000\ metres Canoeing\ Men's\ Kayak\ Doubles,\ 10,000\ metres Canoeing\ Men's\ Kayak\ Doubles,\ 200\ metres Canoeing\ Men's\ Kayak\ Doubles,\ 500\ metres Canoeing\ Men's\ Kayak\ Fours,\ 1,000\ metres Canoeing\ Men's\ Kayak\ Relay\ 4\ x\ 500\ metres Canoeing\ Men's\ Kayak\ Singles,\ 1,000\ metres Canoeing\ Men's\ Kayak\ Singles,\ 10,000\ metres Canoeing\ Men's\ Kayak\ Singles,\ 200\ metres Canoeing\ Men's\ Kayak\ Singles,\ 500\ metres Canoeing\ Men's\ Kayak\ Singles,\ Slalom Canoeing\ Women's\ Kayak\ Doubles,\ 500\ metres Canoeing\ Women's\ Kayak\ Fours,\ 500\ metres Canoeing\ Women's\ Kayak\ Singles,\ 200\ metres Canoeing\ Women's\ Kayak\ Singles,\ 500\ metres Canoeing\ Women's\ Kayak\ Singles,\ Slalom Cricket\ Men's\ Cricket Croquet\ Mixed\ Doubles Croquet\ Mixed\ Singles,\ One\ Ball Croquet\ Mixed\ Singles,\ Two\ Balls Cross\ Country\ Skiing\ Men's\ 4\ x\ 10\ kilometres\ Relay Cross\ Country\ Skiing\ Men's\ 10\ kilometres Cross\ Country\ Skiing\ Men's\ 10/10\ kilometres\ Pursuit Cross\ Country\ Skiing\ Men's\ 10/15\ kilometres\ Pursuit Cross\ Country\ Skiing\ Men's\ 15\ kilometres Cross\ Country\ Skiing\ Men's\ 18\ kilometres Cross\ Country\ Skiing\ Men's\ 30\ kilometres Cross\ Country\ Skiing\ Men's\ 30\ km\ Skiathlon Cross\ Country\ Skiing\ Men's\ 50\ kilometres Cross\ Country\ Skiing\ Men's\ Sprint Cross\ Country\ Skiing\ Men's\ Team\ Sprint Cross\ Country\ Skiing\ Women's\ 3\ x\ 5\ kilometres\ Relay Cross\ Country\ Skiing\ Women's\ 4\ x\ 5\ kilometres\ Relay Cross\ Country\ Skiing\ Women's\ 5\ kilometres Cross\ Country\ Skiing\ Women's\ 5/5\ kilometres\ Pursuit Cross\ Country\ Skiing\ Women's\ 5/10\ kilometres\ Pursuit Cross\ Country\ Skiing\ Women's\ 10\ kilometres Cross\ Country\ Skiing\ Women's\ 15\ kilometres Cross\ Country\ Skiing\ Women's\ 15\ km\ Skiathlon Cross\ Country\ Skiing\ Women's\ 20\ kilometres Cross\ Country\ Skiing\ Women's\ 30\ kilometres Cross\ Country\ Skiing\ Women's\ Sprint Cross\ Country\ Skiing\ Women's\ Team\ Sprint Curling\ Men's\ Curling Curling\ Women's\ Curling Cycling\ Men's\ 1\ mile Cycling\ Men's\ 1,000\ metres\ Time\ Trial Cycling\ Men's\ 1/2\ mile Cycling\ Men's\ 1/3\ mile Cycling\ Men's\ 1/4\ mile Cycling\ Men's\ 2\ mile Cycling\ Men's\ 5\ mile Cycling\ Men's\ 5,000\ metres Cycling\ Men's\ 10,000\ metres Cycling\ Men's\ 12-Hours\ Race Cycling\ Men's\ 20\ kilometres Cycling\ Men's\ 25\ kilometres Cycling\ Men's\ 25\ mile Cycling\ Men's\ 50\ kilometres Cycling\ Men's\ 100\ kilometres Cycling\ Men's\ 100\ kilometres\ Team\ Time\ Trial Cycling\ Men's\ 333\ metres\ Time\ Trial Cycling\ Men's\ BMX Cycling\ Men's\ Individual\ Pursuit,\ 4,000\ metres Cycling\ Men's\ Individual\ Time\ Trial Cycling\ Men's\ Keirin Cycling\ Men's\ Madison Cycling\ Men's\ Mountainbike,\ Cross-Country Cycling\ Men's\ Omnium Cycling\ Men's\ Points\ Race Cycling\ Men's\ Road\ Race,\ Individual Cycling\ Men's\ Road\ Race,\ Team Cycling\ Men's\ Sprint Cycling\ Men's\ Tandem\ Sprint,\ 2,000\ metres Cycling\ Men's\ Team\ Pursuit,\ 1,980\ yards Cycling\ Men's\ Team\ Pursuit,\ 4,000\ metres Cycling\ Men's\ Team\ Sprint Cycling\ Women's\ 500\ metres\ Time\ Trial Cycling\ Women's\ BMX Cycling\ Women's\ Individual\ Pursuit,\ 3,000\ metres Cycling\ Women's\ Individual\ Time\ Trial Cycling\ Women's\ Keirin Cycling\ Women's\ Mountainbike,\ Cross-Country Cycling\ Women's\ Omnium Cycling\ Women's\ Points\ Race Cycling\ Women's\ Road\ Race,\ Individual Cycling\ Women's\ Sprint Cycling\ Women's\ Team\ Pursuit Cycling\ Women's\ Team\ Sprint Diving\ Men's\ Plain\ High Diving\ Men's\ Platform Diving\ Men's\ Springboard Diving\ Men's\ Synchronized\ Platform Diving\ Men's\ Synchronized\ Springboard Diving\ Women's\ Plain\ High Diving\ Women's\ Platform Diving\ Women's\ Springboard Diving\ Women's\ Synchronized\ Platform Diving\ Women's\ Synchronized\ Springboard Equestrianism\ Men's\ Dressage,\ Individual Equestrianism\ Men's\ Dressage,\ Team Equestrianism\ Men's\ Jumping,\ Individual Equestrianism\ Men's\ Jumping,\ Team Equestrianism\ Men's\ Three-Day\ Event,\ Individual Equestrianism\ Men's\ Three-Day\ Event,\ Team Equestrianism\ Men's\ Vaulting,\ Individual Equestrianism\ Men's\ Vaulting,\ Team Equestrianism\ Mixed\ Dressage,\ Individual Equestrianism\ Mixed\ Dressage,\ Team Equestrianism\ Mixed\ Four-In-Hand\ Competition Equestrianism\ Mixed\ Hacks\ And\ Hunter\ Combined Equestrianism\ Mixed\ High\ Jump Equestrianism\ Mixed\ Jumping,\ Individual Equestrianism\ Mixed\ Jumping,\ Team Equestrianism\ Mixed\ Long\ Jump Equestrianism\ Mixed\ Three-Day\ Event,\ Individual Equestrianism\ Mixed\ Three-Day\ Event,\ Team Fencing\ Men's\ Foil,\ Individual Fencing\ Men's\ Foil,\ Masters,\ Individual Fencing\ Men's\ Foil,\ Team Fencing\ Men's\ Sabre,\ Individual Fencing\ Men's\ Sabre,\ Individual,\ Three\ Hits Fencing\ Men's\ Sabre,\ Masters,\ Individual Fencing\ Men's\ Sabre,\ Team Fencing\ Men's\ Single\ Sticks,\ Individual Fencing\ Men's\ epee,\ Individual Fencing\ Men's\ epee,\ Masters\ and\ Amateurs,\ Individual Fencing\ Men's\ epee,\ Masters,\ Individual Fencing\ Men's\ epee,\ Team Fencing\ Women's\ Foil,\ Individual Fencing\ Women's\ Foil,\ Team Fencing\ Women's\ Sabre,\ Individual Fencing\ Women's\ Sabre,\ Team Fencing\ Women's\ epee,\ Individual Fencing\ Women's\ epee,\ Team Figure\ Skating\ Men's\ Singles Figure\ Skating\ Men's\ Special\ Figures Figure\ Skating\ Mixed\ Ice\ Dancing Figure\ Skating\ Mixed\ Pairs Figure\ Skating\ Mixed\ Team Figure\ Skating\ Women's\ Singles Football\ Men's\ Football Football\ Women's\ Football Freestyle\ Skiing\ Men's\ Aerials Freestyle\ Skiing\ Men's\ Halfpipe Freestyle\ Skiing\ Men's\ Moguls Freestyle\ Skiing\ Men's\ Ski\ Cross Freestyle\ Skiing\ Men's\ Slopestyle Freestyle\ Skiing\ Women's\ Aerials Freestyle\ Skiing\ Women's\ Halfpipe Freestyle\ Skiing\ Women's\ Moguls Freestyle\ Skiing\ Women's\ Ski\ Cross Freestyle\ Skiing\ Women's\ Slopestyle Golf\ Men's\ Individual Golf\ Men's\ Team Golf\ Women's\ Individual Gymnastics\ Men's\ Club\ Swinging Gymnastics\ Men's\ Floor\ Exercise Gymnastics\ Men's\ Horizontal\ Bar Gymnastics\ Men's\ Horizontal\ Bar,\ Teams Gymnastics\ Men's\ Horse\ Vault Gymnastics\ Men's\ Individual\ All-Around Gymnastics\ Men's\ Individual\ All-Around,\ 4\ Events Gymnastics\ Men's\ Individual\ All-Around,\ 5\ Events Gymnastics\ Men's\ Individual\ All-Around,\ Apparatus\ Work Gymnastics\ Men's\ Individual\ All-Around,\ Field\ Sports Gymnastics\ Men's\ Parallel\ Bars Gymnastics\ Men's\ Parallel\ Bars,\ Teams Gymnastics\ Men's\ Pommelled\ Horse Gymnastics\ Men's\ Rings Gymnastics\ Men's\ Rope\ Climbing Gymnastics\ Men's\ Side\ Horse Gymnastics\ Men's\ Team\ All-Around Gymnastics\ Men's\ Team\ All-Around,\ Free\ System Gymnastics\ Men's\ Team\ All-Around,\ Swedish\ System Gymnastics\ Men's\ Tumbling Gymnastics\ Women's\ Balance\ Beam Gymnastics\ Women's\ Floor\ Exercise Gymnastics\ Women's\ Horse\ Vault Gymnastics\ Women's\ Individual\ All-Around Gymnastics\ Women's\ Team\ All-Around Gymnastics\ Women's\ Team\ Portable\ Apparatus Gymnastics\ Women's\ Uneven\ Bars Handball\ Men's\ Handball Handball\ Women's\ Handball Hockey\ Men's\ Hockey Hockey\ Women's\ Hockey Ice\ Hockey\ Men's\ Ice\ Hockey Ice\ Hockey\ Women's\ Ice\ Hockey Jeu\ De\ Paume\ Men's\ Singles Judo\ Men's\ Extra-Lightweight Judo\ Men's\ Half-Heavyweight Judo\ Men's\ Half-Lightweight Judo\ Men's\ Half-Middleweight Judo\ Men's\ Heavyweight Judo\ Men's\ Lightweight Judo\ Men's\ Middleweight Judo\ Men's\ Open\ Class Judo\ Women's\ Extra-Lightweight Judo\ Women's\ Half-Heavyweight Judo\ Women's\ Half-Lightweight Judo\ Women's\ Half-Middleweight Judo\ Women's\ Heavyweight Judo\ Women's\ Lightweight Judo\ Women's\ Middleweight Lacrosse\ Men's\ Lacrosse Luge\ Men's\ Singles Luge\ Mixed\ (Men)'s\ Doubles Luge\ Mixed\ Team\ Relay Luge\ Women's\ Singles Military\ Ski\ Patrol\ Men's\ Military\ Ski\ Patrol Modern\ Pentathlon\ Men's\ Individual Modern\ Pentathlon\ Men's\ Team Modern\ Pentathlon\ Women's\ Individual Motorboating\ Mixed\ A-Class\ (Open) Motorboating\ Mixed\ B-Class\ (Under\ 60\ Feet) Motorboating\ Mixed\ C-Class Nordic\ Combined\ Men's\ Individual Nordic\ Combined\ Men's\ Large\ Hill\ /\ 10\ km,\ Individual Nordic\ Combined\ Men's\ Normal\ Hill\ /\ 10\ km,\ Individual Nordic\ Combined\ Men's\ Sprint Nordic\ Combined\ Men's\ Team Polo\ Men's\ Polo Racquets\ Men's\ Doubles Racquets\ Men's\ Singles Rhythmic\ Gymnastics\ Women's\ Group Rhythmic\ Gymnastics\ Women's\ Individual Roque\ Men's\ Singles Rowing\ Men's\ 6-Man\ Naval\ Rowing\ Boats Rowing\ Men's\ 17-Man\ Naval\ Rowing\ Boats Rowing\ Men's\ Coxed\ Eights Rowing\ Men's\ Coxed\ Fours Rowing\ Men's\ Coxed\ Fours,\ Inriggers Rowing\ Men's\ Coxed\ Fours,\ Outriggers Rowing\ Men's\ Coxed\ Pairs Rowing\ Men's\ Coxed\ Pairs\ (1\ kilometres) Rowing\ Men's\ Coxed\ Pairs\ (1\ mile) Rowing\ Men's\ Coxless\ Fours Rowing\ Men's\ Coxless\ Pairs Rowing\ Men's\ Double\ Sculls Rowing\ Men's\ Lightweight\ Coxless\ Fours Rowing\ Men's\ Lightweight\ Double\ Sculls Rowing\ Men's\ Quadruple\ Sculls Rowing\ Men's\ Single\ Sculls Rowing\ Women's\ Coxed\ Eights Rowing\ Women's\ Coxed\ Fours Rowing\ Women's\ Coxed\ Quadruple\ Sculls Rowing\ Women's\ Coxless\ Fours Rowing\ Women's\ Coxless\ Pairs Rowing\ Women's\ Double\ Sculls Rowing\ Women's\ Lightweight\ Double\ Sculls Rowing\ Women's\ Quadruple\ Sculls Rowing\ Women's\ Single\ Sculls Rugby\ Men's\ Rugby Rugby\ Sevens\ Men's\ Rugby\ Sevens Rugby\ Sevens\ Women's\ Rugby\ Sevens Sailing\ Men's\ One\ Person\ Dinghy Sailing\ Men's\ One\ Person\ Heavyweight\ Dinghy Sailing\ Men's\ Skiff Sailing\ Men's\ Two\ Person\ Dinghy Sailing\ Men's\ Two\ Person\ Keelboat Sailing\ Men's\ Windsurfer Sailing\ Mixed\ 0-0.5\ Ton Sailing\ Mixed\ 0.5-1\ Ton Sailing\ Mixed\ 1-2\ Ton Sailing\ Mixed\ 2-3\ Ton Sailing\ Mixed\ 3-10\ Ton Sailing\ Mixed\ 5.5\ metres Sailing\ Mixed\ 6\ metres Sailing\ Mixed\ 6.5\ metres Sailing\ Mixed\ 7\ metres Sailing\ Mixed\ 8\ metres Sailing\ Mixed\ 10\ metres Sailing\ Mixed\ 10-20\ Ton Sailing\ Mixed\ 12\ foot Sailing\ Mixed\ 12\ metres Sailing\ Mixed\ 18\ foot Sailing\ Mixed\ 20+\ Ton Sailing\ Mixed\ 30\ metres Sailing\ Mixed\ 40\ metres Sailing\ Mixed\ Multihull Sailing\ Mixed\ One\ Person\ Dinghy Sailing\ Mixed\ Open Sailing\ Mixed\ Skiff Sailing\ Mixed\ Three\ Person\ Keelboat Sailing\ Mixed\ Two\ Person\ Dinghy Sailing\ Mixed\ Two\ Person\ Heavyweight\ Dinghy Sailing\ Mixed\ Two\ Person\ Keelboat Sailing\ Mixed\ Windsurfer Sailing\ Women's\ One\ Person\ Dinghy Sailing\ Women's\ Skiff Sailing\ Women's\ Three\ Person\ Keelboat Sailing\ Women's\ Two\ Person\ Dinghy Sailing\ Women's\ Windsurfer Shooting\ Men's\ Air\ Pistol,\ 10\ metres Shooting\ Men's\ Air\ Rifle,\ 10\ metres Shooting\ Men's\ Double\ Trap Shooting\ Men's\ Dueling\ Pistol\ Au\ Commandement,\ 25\ metres Shooting\ Men's\ Dueling\ Pistol\ Au\ Vise\ 20\ metres Shooting\ Men's\ Dueling\ Pistol,\ 30\ metres Shooting\ Men's\ Dueling\ Pistol,\ 30\ metres,\ Team Shooting\ Men's\ Free\ Pistol,\ 25\ metres Shooting\ Men's\ Free\ Pistol,\ 30\ metres Shooting\ Men's\ Free\ Pistol,\ 50\ metres Shooting\ Men's\ Free\ Pistol,\ 50\ metres,\ Team Shooting\ Men's\ Free\ Pistol,\ 50\ yards Shooting\ Men's\ Free\ Pistol,\ 50\ yards,\ Team Shooting\ Men's\ Free\ Rifle,\ 1,000\ Yards Shooting\ Men's\ Free\ Rifle,\ 400,\ 600\ and\ 800\ metres,\ Team Shooting\ Men's\ Free\ Rifle,\ Any\ Position,\ 300\ metres Shooting\ Men's\ Free\ Rifle,\ Kneeling,\ 300\ metres Shooting\ Men's\ Free\ Rifle,\ Prone,\ 300\ metres Shooting\ Men's\ Free\ Rifle,\ Prone,\ 600\ metres Shooting\ Men's\ Free\ Rifle,\ Standing,\ 300\ metres Shooting\ Men's\ Free\ Rifle,\ Three\ Positions,\ 300\ metres Shooting\ Men's\ Free\ Rifle,\ Three\ Positions,\ 300\ metres,\ Team Shooting\ Men's\ Military\ Pistol,\ 25\ metres Shooting\ Men's\ Military\ Pistol,\ 30\ metres Shooting\ Men's\ Military\ Pistol,\ Team Shooting\ Men's\ Military\ Revolver,\ 20\ metres Shooting\ Men's\ Military\ Revolver,\ 1873-1874\ Gras\ Model,\ 20\ metres Shooting\ Men's\ Military\ Rifle,\ 200\ metres Shooting\ Men's\ Military\ Rifle,\ 200,\ 400,\ 500\ and\ 600\ metres,\ Team Shooting\ Men's\ Military\ Rifle,\ 200/500/600/800/900/1,000\ Yards,\ Team Shooting\ Men's\ Military\ Rifle,\ 300\ metres\ and\ 600\ metres,\ Prone,\ Team Shooting\ Men's\ Military\ Rifle,\ 1873-1874\ Gras\ Model,\ Kneeling\ Or\ Standing,\ 200\ metres Shooting\ Men's\ Military\ Rifle,\ Any\ Position,\ 600\ metres Shooting\ Men's\ Military\ Rifle,\ Kneeling\ Or\ Standing,\ 300\ metres Shooting\ Men's\ Military\ Rifle,\ Prone,\ 300\ metres Shooting\ Men's\ Military\ Rifle,\ Prone,\ 300\ metres,\ Team Shooting\ Men's\ Military\ Rifle,\ Prone,\ 600\ metres Shooting\ Men's\ Military\ Rifle,\ Prone,\ 600\ metres,\ Team Shooting\ Men's\ Military\ Rifle,\ Standing,\ 300\ metres Shooting\ Men's\ Military\ Rifle,\ Standing,\ 300\ metres,\ Team Shooting\ Men's\ Military\ Rifle,\ Three\ Positions,\ 300\ metres Shooting\ Men's\ Muzzle-Loading\ Pistol,\ 25\ metres Shooting\ Men's\ Rapid-Fire\ Pistol,\ 25\ metres Shooting\ Men's\ Running\ Target,\ 10\ metres Shooting\ Men's\ Running\ Target,\ 50\ metres Shooting\ Men's\ Running\ Target,\ Double\ Shot Shooting\ Men's\ Running\ Target,\ Double\ Shot,\ Team Shooting\ Men's\ Running\ Target,\ Single\ And\ Double\ Shot Shooting\ Men's\ Running\ Target,\ Single\ Shot Shooting\ Men's\ Running\ Target,\ Single\ Shot,\ Team Shooting\ Men's\ Skeet Shooting\ Men's\ Small\ Bore-Rifle,\ Standing,\ 50\ metres,\ Team Shooting\ Men's\ Small-Bore\ Rifle,\ 50\ and\ 100\ yards,\ Team Shooting\ Men's\ Small-Bore\ Rifle,\ Any\ Position,\ 50\ metres Shooting\ Men's\ Small-Bore\ Rifle,\ Disappearing\ Target,\ 25\ metres Shooting\ Men's\ Small-Bore\ Rifle,\ Disappearing\ Target,\ 25\ metres,\ Team Shooting\ Men's\ Small-Bore\ Rifle,\ Disappearing\ Target,\ 25\ yards Shooting\ Men's\ Small-Bore\ Rifle,\ Moving\ Target,\ 25\ yards Shooting\ Men's\ Small-Bore\ Rifle,\ Prone,\ 50\ and\ 100\ yards Shooting\ Men's\ Small-Bore\ Rifle,\ Prone,\ 50\ metres Shooting\ Men's\ Small-Bore\ Rifle,\ Prone,\ 50\ metres,\ Team Shooting\ Men's\ Small-Bore\ Rifle,\ Standing,\ 50\ metres Shooting\ Men's\ Small-Bore\ Rifle,\ Three\ Positions,\ 50\ metres Shooting\ Men's\ Trap Shooting\ Men's\ Trap,\ Double\ Shot,\ 14\ metres Shooting\ Men's\ Trap,\ Single\ Shot,\ 16\ metres Shooting\ Men's\ Trap,\ Team Shooting\ Men's\ Unknown\ Event Shooting\ Mixed\ Free\ Pistol,\ 50\ metres Shooting\ Mixed\ Free\ Rifle,\ Three\ Positions,\ 300\ metres Shooting\ Mixed\ Rapid-Fire\ Pistol,\ 25\ metres Shooting\ Mixed\ Running\ Target,\ 50\ metres Shooting\ Mixed\ Skeet Shooting\ Mixed\ Small-Bore\ Rifle,\ Prone,\ 50\ metres Shooting\ Mixed\ Small-Bore\ Rifle,\ Three\ Positions,\ 50\ metres Shooting\ Mixed\ Trap Shooting\ Women's\ Air\ Pistol,\ 10\ metres Shooting\ Women's\ Air\ Rifle,\ 10\ metres Shooting\ Women's\ Double\ Trap Shooting\ Women's\ Skeet Shooting\ Women's\ Small-Bore\ Rifle,\ Three\ Positions,\ 50\ metres Shooting\ Women's\ Sporting\ Pistol,\ 25\ metres Shooting\ Women's\ Trap Short\ Track\ Speed\ Skating\ Men's\ 1,000\ metres Short\ Track\ Speed\ Skating\ Men's\ 1,500\ metres Short\ Track\ Speed\ Skating\ Men's\ 5,000\ metres\ Relay Short\ Track\ Speed\ Skating\ Men's\ 500\ metres Short\ Track\ Speed\ Skating\ Women's\ 1,000\ metres Short\ Track\ Speed\ Skating\ Women's\ 1,500\ metres Short\ Track\ Speed\ Skating\ Women's\ 3,000\ metres\ Relay Short\ Track\ Speed\ Skating\ Women's\ 500\ metres Skeleton\ Men's\ Skeleton Skeleton\ Women's\ Skeleton Ski\ Jumping\ Men's\ Large\ Hill,\ Individual Ski\ Jumping\ Men's\ Large\ Hill,\ Team Ski\ Jumping\ Men's\ Normal\ Hill,\ Individual Ski\ Jumping\ Women's\ Normal\ Hill,\ Individual Snowboarding\ Men's\ Boardercross Snowboarding\ Men's\ Giant\ Slalom Snowboarding\ Men's\ Halfpipe Snowboarding\ Men's\ Parallel\ Giant\ Slalom Snowboarding\ Men's\ Parallel\ Slalom Snowboarding\ Men's\ Slopestyle Snowboarding\ Women's\ Boardercross Snowboarding\ Women's\ Giant\ Slalom Snowboarding\ Women's\ Halfpipe Snowboarding\ Women's\ Parallel\ Giant\ Slalom Snowboarding\ Women's\ Parallel\ Slalom Snowboarding\ Women's\ Slopestyle Softball\ Women's\ Softball Speed\ Skating\ Men's\ 1,000\ metres Speed\ Skating\ Men's\ 1,500\ metres Speed\ Skating\ Men's\ 5,000\ metres Speed\ Skating\ Men's\ 10,000\ metres Speed\ Skating\ Men's\ 500\ metres Speed\ Skating\ Men's\ Allround Speed\ Skating\ Men's\ Team\ Pursuit\ (8\ laps) Speed\ Skating\ Women's\ 1,000\ metres Speed\ Skating\ Women's\ 1,500\ metres Speed\ Skating\ Women's\ 3,000\ metres Speed\ Skating\ Women's\ 5,000\ metres Speed\ Skating\ Women's\ 500\ metres Speed\ Skating\ Women's\ Team\ Pursuit\ (6\ laps) Swimming\ Men's\ 1,000\ metres\ Freestyle Swimming\ Men's\ 1,200\ metres\ Freestyle Swimming\ Men's\ 1,500\ metres\ Freestyle Swimming\ Men's\ 4\ x\ 50\ Yard\ Freestyle\ Relay Swimming\ Men's\ 4\ x\ 100\ metres\ Freestyle\ Relay Swimming\ Men's\ 4\ x\ 100\ metres\ Medley\ Relay Swimming\ Men's\ 4\ x\ 200\ metres\ Freestyle\ Relay Swimming\ Men's\ 4\ x\ 250\ metres\ Freestyle\ Relay Swimming\ Men's\ 4,000\ metres\ Freestyle Swimming\ Men's\ 10\ kilometres\ Open\ Water Swimming\ Men's\ 50\ metres\ Freestyle Swimming\ Men's\ 50\ yard\ Freestyle Swimming\ Men's\ 100\ Yard\ Backstroke Swimming\ Men's\ 100\ metres\ Backstroke Swimming\ Men's\ 100\ metres\ Breaststroke Swimming\ Men's\ 100\ metres\ Butterfly Swimming\ Men's\ 100\ metres\ Freestyle Swimming\ Men's\ 100\ metres\ Freestyle\ For\ Sailors Swimming\ Men's\ 100\ yard\ Freestyle Swimming\ Men's\ 200\ metres\ Backstroke Swimming\ Men's\ 200\ metres\ Breaststroke Swimming\ Men's\ 200\ metres\ Butterfly Swimming\ Men's\ 200\ metres\ Freestyle Swimming\ Men's\ 200\ metres\ Individual\ Medley Swimming\ Men's\ 200\ metres\ Obstacle\ Course Swimming\ Men's\ 200\ metres\ Team\ Swimming Swimming\ Men's\ 220\ yard\ Freestyle Swimming\ Men's\ 400\ metres\ Breaststroke Swimming\ Men's\ 400\ metres\ Freestyle Swimming\ Men's\ 400\ metres\ Individual\ Medley Swimming\ Men's\ 440\ Yard\ Breaststroke Swimming\ Men's\ 440\ yard\ Freestyle Swimming\ Men's\ 500\ metres\ Freestyle Swimming\ Men's\ 880\ yard\ Freestyle Swimming\ Men's\ One\ Mile\ Freestyle Swimming\ Men's\ Plunge\ For\ Distance Swimming\ Men's\ Underwater\ Swimming Swimming\ Women's\ 4\ x\ 100\ metres\ Freestyle\ Relay Swimming\ Women's\ 4\ x\ 100\ metres\ Medley\ Relay Swimming\ Women's\ 4\ x\ 200\ metres\ Freestyle\ Relay Swimming\ Women's\ 10\ kilometres\ Open\ Water Swimming\ Women's\ 50\ metres\ Freestyle Swimming\ Women's\ 100\ metres\ Backstroke Swimming\ Women's\ 100\ metres\ Breaststroke Swimming\ Women's\ 100\ metres\ Butterfly Swimming\ Women's\ 100\ metres\ Freestyle Swimming\ Women's\ 200\ metres\ Backstroke Swimming\ Women's\ 200\ metres\ Breaststroke Swimming\ Women's\ 200\ metres\ Butterfly Swimming\ Women's\ 200\ metres\ Freestyle Swimming\ Women's\ 200\ metres\ Individual\ Medley Swimming\ Women's\ 300\ metres\ Freestyle Swimming\ Women's\ 400\ metres\ Freestyle Swimming\ Women's\ 400\ metres\ Individual\ Medley Swimming\ Women's\ 800\ metres\ Freestyle Synchronized\ Swimming\ Women's\ Duet Synchronized\ Swimming\ Women's\ Solo Synchronized\ Swimming\ Women's\ Team Table\ Tennis\ Men's\ Doubles Table\ Tennis\ Men's\ Singles Table\ Tennis\ Men's\ Team Table\ Tennis\ Women's\ Doubles Table\ Tennis\ Women's\ Singles Table\ Tennis\ Women's\ Team Taekwondo\ Men's\ Featherweight Taekwondo\ Men's\ Flyweight Taekwondo\ Men's\ Heavyweight Taekwondo\ Men's\ Welterweight Taekwondo\ Women's\ Featherweight Taekwondo\ Women's\ Flyweight Taekwondo\ Women's\ Heavyweight Taekwondo\ Women's\ Welterweight Tennis\ Men's\ Doubles Tennis\ Men's\ Doubles,\ Covered\ Courts Tennis\ Men's\ Singles Tennis\ Men's\ Singles,\ Covered\ Courts Tennis\ Mixed\ Doubles Tennis\ Mixed\ Doubles,\ Covered\ Courts Tennis\ Women's\ Doubles Tennis\ Women's\ Singles Tennis\ Women's\ Singles,\ Covered\ Courts Trampolining\ Men's\ Individual Trampolining\ Women's\ Individual Triathlon\ Men's\ Olympic\ Distance Triathlon\ Women's\ Olympic\ Distance Tug-Of-War\ Men's\ Tug-Of-War Volleyball\ Men's\ Volleyball Volleyball\ Women's\ Volleyball Water\ Polo\ Men's\ Water\ Polo Water\ Polo\ Women's\ Water\ Polo Weightlifting\ Men's\ All-Around\ Dumbbell\ Contest Weightlifting\ Men's\ Bantamweight Weightlifting\ Men's\ Featherweight Weightlifting\ Men's\ Flyweight Weightlifting\ Men's\ Heavyweight Weightlifting\ Men's\ Heavyweight\ I Weightlifting\ Men's\ Heavyweight\ II Weightlifting\ Men's\ Light-Heavyweight Weightlifting\ Men's\ Lightweight Weightlifting\ Men's\ Middle-Heavyweight Weightlifting\ Men's\ Middleweight Weightlifting\ Men's\ Super-Heavyweight Weightlifting\ Men's\ Unlimited,\ One\ Hand Weightlifting\ Men's\ Unlimited,\ Two\ Hands Weightlifting\ Women's\ Featherweight Weightlifting\ Women's\ Flyweight Weightlifting\ Women's\ Heavyweight Weightlifting\ Women's\ Light-Heavyweight Weightlifting\ Women's\ Lightweight Weightlifting\ Women's\ Middleweight Weightlifting\ Women's\ Super-Heavyweight Wrestling\ Men's\ All-Around,\ Greco-Roman Wrestling\ Men's\ Bantamweight,\ Freestyle Wrestling\ Men's\ Bantamweight,\ Greco-Roman Wrestling\ Men's\ Featherweight,\ Freestyle Wrestling\ Men's\ Featherweight,\ Greco-Roman Wrestling\ Men's\ Flyweight,\ Freestyle Wrestling\ Men's\ Flyweight,\ Greco-Roman Wrestling\ Men's\ Heavyweight,\ Freestyle Wrestling\ Men's\ Heavyweight,\ Greco-Roman Wrestling\ Men's\ Light-Flyweight,\ Freestyle Wrestling\ Men's\ Light-Flyweight,\ Greco-Roman Wrestling\ Men's\ Light-Heavyweight,\ Freestyle Wrestling\ Men's\ Light-Heavyweight,\ Greco-Roman Wrestling\ Men's\ Lightweight,\ Freestyle Wrestling\ Men's\ Lightweight,\ Greco-Roman Wrestling\ Men's\ Middleweight\ A,\ Greco-Roman Wrestling\ Men's\ Middleweight\ B,\ Greco-Roman Wrestling\ Men's\ Middleweight,\ Freestyle Wrestling\ Men's\ Middleweight,\ Greco-Roman Wrestling\ Men's\ Super-Heavyweight,\ Freestyle Wrestling\ Men's\ Super-Heavyweight,\ Greco-Roman Wrestling\ Men's\ Unlimited\ Class,\ Greco-Roman Wrestling\ Men's\ Welterweight,\ Freestyle Wrestling\ Men's\ Welterweight,\ Greco-Roman Wrestling\ Women's\ Featherweight,\ Freestyle Wrestling\ Women's\ Flyweight,\ Freestyle Wrestling\ Women's\ Heavyweight,\ Freestyle Wrestling\ Women's\ Light-Heavyweight,\ Freestyle Wrestling\ Women's\ Lightweight,\ Freestyle Wrestling\ Women's\ Middleweight,\ Freestyle",F M,continuous,Summer Winter,continuous,continuous,"30.\ Februar A\ North\ American\ Team Acipactli Acturus Afghanistan Akatonbo Alain\ IV Albania Alcaid Alcyon-6 Alcyon-7 Aldebaran Aldebaran\ II Aletta Algeria Ali-Baba\ II Ali-Baba\ IV Ali-Baba\ IX Ali-Baba\ VI Allegro Almaz Aloha\ II Amateur\ Athletic\ Association American\ Samoa Amolgavar Amstel\ Amsterdam Amulet-3 Amulet-7 Ancora Andorinha Andorra Andromeda Angelita Angerburg Angola Anitra Antares Antigua\ and\ Barbuda Antwerpia\ V Apache Aphrodite Arcturus Ardilla Aretusa Argentina Argentina-1 Argentina-2 Argeste Argo\ II Argonaut\ Rowing\ Club Argus Ariel Ariette-8 Ariette-10 Armenia Aruba Aschenbrodel Astrid\ III Atalanta\ Boat\ Club-1 Atalanta\ Boat\ Club-2 Athens-2 Atlanta Augsburg Ausonia Australasia Australia Australia-1 Australia-2 Australia-3 Australia/Great\ Britain Austria Austria-1 Austria-2 Azerbaijan BLO\ Polo\ Club,\ Rugby Babe Baby-1 Baby-9 Baccara Bagatelle\ Polo\ Club,\ Paris Bahamas Bahrain Bajazzo Balaton Ballerina\ IV Bamba Bangladesh Barbados Barco\ Deloro Barion/Bari-2 Barrenjoey Beatrijs\ III-1 Beaver Belarus Belarus-1 Belarus-2 Belgium Belgium-1 Belgium-2 Belgium-3 Belgium-4 Belize Bella Bellatrix\ IX Bellatrix\ XIII Bem\ II Benin Bera Berliner\ Ruderclub Berliner\ Ruderclub\ Sport-Borussia-1 Berliner\ Ruderverein\ von\ 1876-2 Bermuda Bermudes Bermudian Bhutan Bim Bingo Bissbi Blue\ Red Bluebottle Boer\ Team Bohemia Bohemia-1 Bohemia-2 Bohemia-3 Bohemia/Great\ Britain Bolivia Bona\ Fide Bonaparte Bonzo Boreas Boreas-2 Bosnia\ and\ Herzegovina Boston\ Archers Botswana Brandenburg Brat Brazil Brazil-1 Brazil-2 Bremen Brentina Breslau Briar Brigantia British\ Virgin\ Islands Bronia Brunei Brussels\ Swimming\ and\ Water\ Polo\ Club Brynhild-2 Bu\ III Bucintoro\ Venezia Bucintoro\ Venezia-1 Bulgaria Bulgaria-1 Bulgaria-2 Buraddoo Burevestnik Burkina\ Faso Burundi Buscape\ II Bylina-2 C.V.A.-7 C.V.A.-14 Calcinhas Calimucho Calypse\ II Cambodia Cambria Cambridge\ University\ Boat\ Club-2 Camelia Cameroon Camille Canada Canada-1 Canada-2 Canada-3 Canopus Cape\ Verde Caprice Carabinier-5 Carabinier-15 Cayman\ Islands Central\ African\ Republic Central\ Turnverein,\ Chicago Century\ Boat\ Club-1 Cercle\ Nautique\ de\ Reims-4 Cercle\ de\ l'Aviron\ Roubaix-4 Ceres\ II Cha-Cha\ III Chad Chaje\ II Chamukina Chance Chicago\ Archers Chicago\ Athletic\ Association Chicago\ Athletic\ Association-2 Chile China China-1 China-2 China-3 Chinese\ Taipei Chinese\ Taipei-1 Chinese\ Taipei-2 Chok Christian\ Brothers'\ College-1 Chuckles Cicely-1 Cinara-13 Cincinnati\ Archers Ciocca Ciocca\ II Ciocca\ III Circus Ciss Clearwater Clementine\ V Club\ Nautique\ de\ Dieppe-5 Club\ Nautique\ de\ Franais-1 Club\ Nautique\ de\ Lyon-2 Cobweb-1 Colette-10 Colette-12 Colombia Comanche Combine Comoros Compigne\ Polo\ Club Complex\ II Concordia\ Turnverein,\ St\ Louis Congo\ (Brazzaville) Congo\ (Kinshasa) Cook\ Islands Cornwall Costa\ Rica Cote\ d'Ivoire Covunco\ III Crabe\ I-2 Crabe\ I-3 Crabe\ I-11 Crabe\ II-1 Crabe\ II-4 Crabe\ II-12 Crete Croatia Crocodile-11 Crocodile-13 Cuba Cuba-1 Cuba-2 Cupidon\ III Cupidon\ Viking Cuxhaven Cyprus Czech\ Republic Czech\ Republic-1 Czech\ Republic-2 Czechoslovakia Czechoslovakia-1 Czechoslovakia-2 Czechoslovakia-3 Daisy Damoiselle Damoiselle\ IV Danaldo Dansk\ Idrts\ Forbund Danuta Danzig Davenport\ Turngemeinde,\ Davenport DeRuyter Demi-Mondaine-15 Demi-Mondaine-17 Denmark Denmark-1 Denmark-2 Denmark-3 Denmark-4 Denmark/Sweden Deutscher\ Schwimm\ Verband\ Berlin Devon\ and\ Somerset\ Wanderers Diablo Diabolo\ St\ Maurice Dick-8 Digby Dinah\ V Djibouti Djinn Dolfijn Dominica Dominican\ Republic Don\ Schufro Donar\ III Dormy-1 Dow\ Jones Dresden Druzhba Ducky-4 Ducky-16 Dylan-2 EA\ II East\ Germany East\ Germany-1 East\ Germany-2 East\ Germany-3 Ecuador Edelweiss\ II-1 Egypt Eissero\ VI El\ Salvador Eleda Elisabeth\ V Elisabeth\ X Elsie Elvis\ Va Emily Encore England England-1 Enotria Equatorial\ Guinea Eritrea Erna\ Signe Escapade Espadarte Espardate Esperia Espuma\ del\ Mar Essen Esterel-1 Estonia Ethiopia Ethnikos\ Gymnastikos\ Syllogos Evita\ VI Fada Falcon\ IV Falcon\ VI Faneca Fantasio\ III Fantlet-2 Fantlet-7 Favorite\ Hammonia-3 Favorite-1 Favorite-17 Federated\ States\ of\ Micronesia Femur-1 Femur-18 Feo Fiji Finland Finland-1 Finland-2 Finn\ II Firebird\ II Floresco Formosa Fornebo Fortuna Foxhunters\ Hurlingham Fram Fram\ III France France-1 France-2 France-3 France-4 France/Great\ Britain Frankfurt\ Club Freddy Freia-5 Freia-19 Freja Frieda Frimousse Frip\ IV Fruits Gabbiano Gabon Galatea\ II Galejan Galerna Gallant Gallia\ II Galopin\ De\ La\ Font Galopin-9 Galopin-20 Galt\ Football\ Club Gam\ II Gambia Gem Gem\ II Gem\ III Gem\ IV Gem\ VII Georgia Germania\ II Germania\ Ruder\ Club,\ Hamburg Germania\ Ruder\ Club,\ Hamburg-2 Germany Germany-1 Germany-2 Germany-3 Germany/United\ States Ghana Gilliatt\ V Girl\ Pat Giselle-6 Gitana-2 Gitana-21 Glider Glisten Gran\ Gesto Great\ Britain Great\ Britain-1 Great\ Britain-2 Great\ Britain-3 Great\ Britain-4 Great\ Britain/Germany Greece Greece-1 Greece-2 Greece-3 Greece-4 Greenoaks\ Dundee Grenada Grifo\ III Grifo\ IV Grifone Gteborgs\ Roddfrening-2 Gteborgs\ Roddklubb-1 Guam Guanahani Guatemala Guinea Guinea\ Bissau Gullvinge Gustel\ V Gustel\ X Gustl\ XI Guyana Guyoni Gwendoline-2 Gwendoline-22 GyoshuII Gyp-6 Gyp-23 Gyrinus-1 Haiti Hakahana Hamburg Hannover Harmony Hatuey Hayama Hb-20 Hb-24 Heatherbell Heidelberg Heira\ II Helsingfors\ R.\ K. Hera-1 Heroine Hi-Hi Hilarius Hirondelle Hojwa Holland Hollandia Honduras Hong\ Kong Hong\ Kong-1 Hong\ Kong-2 Hornet Humbug\ V Hungaria Hungaria\ Evezos\ Egylet Hungary Hungary-1 Hungary-2 Hungary-3 Hurlingham-2 Iceland Ilderim Impala Inca Independent\ Rowing\ Club-3 India India-1 India-2 Individual\ Olympic\ Athletes Indonesia Indonesia-1 Indonesia-2 Inga-Lill\ XXXXIII Ingegerd Iran Iraq Ireland Ireland-1 Ireland-2 Ireland-3 Irene Israel Israel-1 Israel-2 Italia Italy Italy-1 Italy-2 Italy-3 Jamaica Jamaica-1 Jamaica-2 Japan Japan-1 Japan-2 Japan-3 Jeanette-25 Jeannette-18 Jest Jet Jill Jo Johan John\ B Jordan Joy June\ Climene Jupiter K\ Division\ Metropolitan\ Police\ Team-3 K.S.S.S.\ 1912-2 KNS Kalayaan Kannibaltje Kathleen Kazakhstan Kemphaan Kenya Kerstin-1 Kiel Kingfisher Kiribati Kitty-1 Kln Knigsberg Kon-Tiki Konstanz Korshun Kosovo Kristiania\ Roklub Kristiania\ Roklub-1 Kuling Kullan Kurush\ II Kurush\ IV Kuwait Kyrgyzstan L'Aile\ VI La\ Salle\ Turnverein,\ Chicago LaBandera Lady\ C Lalage Lancet Laos Large\ boat,\ Central\ Naval\ Prep\ School\ ""Poros""-1 Lasha Latvia Latvia-1 Latvia-2 Laurea-1 Lbeck Leander\ Club\ #1-1 Leander\ Club\ #2-2 Leander\ Club-1 Leander\ Club-2 Lebanon Legionario Leipzig Lemzos\ Thorichton\ ""Psara""-3 Lemzos\ Thorichton\ ""Spetsai""-4 Lerina Lesotho Lett Libellule\ de\ Paris Libellule\ de\ Paris-3 Liberia Libya Liechtenstein Life\ boat\ naval\ ship\ ""Spetsai""-1 Linglom Lithuania Liverpool\ Police\ Team-2 Llanoria London\ City\ Police-1 Lotta\ IV Lucky Lucky\ Girl-1 Lucky\ Star Ludwigshafener\ Ruder\ Verein-1 Ludwigshafener\ Ruderverein Lully\ II Luxembourg Luxembourg-1 Luxembourg-2 Lyn-2 Lynn Ma'Lindo Mac\ Miche Macedonia Macky\ VI Mad\ Dog Madagascar Magda\ IX Magdalen\ College\ Boat\ Club-1 Maid\ of\ Lebanon Mainz Malawi Malaya Malaysia Malaysia-1 Malaysia-2 Maldives Mali Malta Mamie-4 Mamie-6 Manana Marga-2 Margaret Mari Marie-Tim Marinai\ della\ nave\ da\ guerra\ ""Varese"" Marmara Marmi\ II-1 Marshall\ Islands Marsouin-8 Marsouin-26 Martha-1 Martha-27 Maryke Mascaret-4 Mascaret-28 Mascotte Matrero\ II Mauritania Mauritius Mauritius-1 Mauritius-2 May\ Be May\ Be\ VII May-Be\ 1960 Mebi Merope Merope\ III Meteor Mexico Mexico-1 Mexico-2 Mignon-3 Mignon-29 Milwaukee\ Athletic\ Club-1 Milwaukee\ Turnverein,\ Milwaukee Minerva\ Amsterdam Minotaur Mirtala Miss\ Denmark\ 1964 Miss\ Nippon\ IV Miss\ Nippon\ V Missouri\ Athletic\ Club-3 Mistral\ Hojris MitaII Mizar Mohawk\ Indians-2 Moldova Monaco Monaco-1 Monaco-2 Mongolia Monica Montenegro Moorina Morena Morocco Moseley\ Wanderers Mosk\ II Mouchette-2 Mound\ City\ Rowing\ Club-2 Mozambique Mutafo Myanmar Myojo Mystery Mythilus Nadine Naiad Namibia Namoussa Nan-2 Nauru Nausikaa\ 4 Nautikos\ Omilos-3 Nepal Nephos\ I Neptun\ II Netherlands Netherlands\ Antilles Netherlands-1 Netherlands-2 New\ College,\ Oxford-2 New\ York\ Athletic\ Club New\ York\ Athletic\ Club\ #1-1 New\ York\ Athletic\ Club\ #2-4 New\ York\ Athletic\ Club-1 New\ York\ Athletic\ Club-4 New\ York\ Turnverein,\ New\ York New\ Zealand New\ Zealand-1 New\ Zealand-2 Newfoundland Nicaragua Niger Nigeria Nigeria-1 Nigeria-2 Nikh Nina Nina\ Claire-2 Nina\ Claire-30 Nirefs Nirwana Nokaut\ II Nora Noreg Norman-1 Norna Nortazo North\ Borneo North\ Korea North\ Korea-1 North\ Korea-2 North\ Yemen Norway Norway-1 Norway-2 Norway-3 Norwegian\ Rowing\ Association Norwegier\ Turnverein,\ Brooklyn Notavel Nrnberg Nurdug\ II Nykjbings\ paa\ Falster Oleander\ II Oleander\ XII Olen Olimpia Olle Olympion Oman Omas\ Helliniki\ P.\ S. Omilos\ Ereton\ Peiraios-2 Omilos\ Ereton\ Smyrnis Oranje Orion Ormsund\ Roklub-2 Osborne\ Swimming\ Club,\ Manchester Oxalis Paka Paka\ V Pakaria Pakistan Palau Palestine Pam Pampero Pan Pan\ II Pan-Hellenic\ Athletic\ Club Panama Pandora Panhellenios\ Gymnastikos\ Syllogos-1 Pannonia\ RC/National\ RC Papua\ New\ Guinea Paraguay Partenope Pasodoble Passaic\ Turnverein,\ Passaic Patricia Paula Pegaso Peiraikos\ Syndesmos-2 Peri Peri\ II Persey Peru Pettit-Poucet-6 Phalainis\ ton\ Thorichtou\ ""Hydra""-2 Phalainis\ ton\ Thorichtou\ ""Psara""-3 Philadelphia\ Turngemeinde,\ Philadelphia Philippines Phoenix Pierre\ et\ Jean-3 Pierre\ et\ Jean-4 Pigoule Pimm Pirouette-5 Pirouette-31 Pistoja/Firenze Plume-Patte-5 Plume-patte-32 Poland Poland-1 Poland-2 Poland-3 Polyteknisk\ Roklub-1 Pop\ Art Portugal Portugal-1 Portugal-2 Posillipo\ III Potomac\ Archers Potsdam Pousse-Moi\ Pas\ VII Primorka Proteus\ II Puerto\ Rico Puerto\ Rico-1 Puerto\ Rico-2 Pupilles\ de\ Neptune\ de\ Lille\ #1-3 Pupilles\ de\ Neptune\ de\ Lille\ #2-1 Pupilles\ de\ Neptune\ de\ Lille-1 Qatar Qu'Importe Quand-Mme-2 Quand-Mme-33 Quando\ Quando Quicksilver-2 R.-V.\ Germania,\ Leitmeritz Racing\ Club\ de\ France Raili Ral-Club\ Barcelona Ralia Rambo Rampage Ravel Ravenswood\ Boat\ Club-2 Red\ Dragon Red\ Indian Refugee\ Olympic\ Athletes Relampago Rhodesia Rhythm Riccar Rififi Rika\ II Roddklubben\ af\ 1912-1 Roddklubben\ af\ 1912-2 Roehampton-1 Roklubb\ Kbnhavn-2 Roma Romania Romania-1 Romania-2 Romolo Rose\ Pompon Rostock Rowing\ Club\ Castillon-3 Roy Royal\ Club\ Nautique\ de\ Gand Rozenn-3 Rush\ IV Rush\ V Rush\ VII Russia Russia-1 Russia-2 Russia-3 Rwanda Saar Sabre Saga-2 SagaII Saint\ Kitts\ and\ Nevis Saint\ Lucia Saint\ Vincent\ and\ the\ Grenadines Salamander Salinero Samoa San\ Marino Sandra Sans\ Atout-1 Santa\ Maria Sao\ Tome\ and\ Principe Sarcelle-3 Sarcelle-35 Saskia Sass-2 Satchmo Saudi\ Arabia Scamasaxe-2 Scamasaxe-3 Scamasaxe-34 Scaup Scotia Scotland Scotland-2 Scotland-3 Scram Sea\ Dog-2 Seawanhaka\ Boat\ Club-1 Senegal Serbia Serbia\ and\ Montenegro Serbia-1 Serbia-2 Serendipity Seychelles Sheerio Shoveller Shrew\ II Siames-Cat Sibindi-2 Sidi\ Fekkar-36 Sidi-Fekkar-14 Sierra\ Leone Sif Sildra-1 Silja Singapore Singapore-1 Singapore-2 Singy-7 Singy-37 Sirene Sjhxa Sjovinge Skidoo Skum Slaghoken Slaghoken\ II Slovakia Slovakia-1 Slovakia-2 Slovenia Slovenia-1 Slovenia-2 Smyrna Snap Snowten\ III Snude Socialer\ Turnverein,\ Detroit Societ\ Nautique\ de\ la\ Marne Societ\ Nautique\ de\ la\ Marne-1 Societ\ Nautique\ de\ la\ Marne-3 Socit\ Nautique\ de\ Bayonne Socit\ Nautique\ de\ Bayonne-1 Socit\ Nautique\ de\ Bayonne-2 Socit\ Nautique\ de\ la\ Basse\ Seine-1 Socit\ Nautique\ de\ la\ Basse\ Seine-2 Solomon\ Islands Solos\ Carex Somalia Sonja\ II Sorais-2 Souriceau-4 Souriceau-38 South\ Africa South\ Africa-1 South\ Africa-2 South\ Korea South\ Korea-1 South\ Korea-2 South\ St\ Louis\ Turnverein,\ St\ Louis South\ Sudan South\ Vietnam South\ Yemen Souvenance Soviet\ Union Soviet\ Union-1 Soviet\ Union-2 Soviet\ Union-3 Spain Spain-1 Spain-2 Spirit\ III Spirit\ VI Springbok Squid\ III Sri\ Lanka St.\ Louis\ Amateur\ Athletic\ Association St.\ Louis\ Southwest\ Turnverein\ #1-2 St.\ Louis\ Southwest\ Turnverein\ #2-3 St.\ Margrite St.\ Rose-2 Stade\ Franais\ AC-2 Starita Starlight\ III State\ VI Stella-2 Struten Studenternes\ Roklub-2 Subbnboana Sudan Sunrise Sunshine Suriname Surprise Suzon\ IV-5 Suzon\ IV-39 Suzy-2 Swaziland Sweden Sweden-1 Sweden-2 Sweden-3 Sweden-4 Swedish\ Star Swift Switzerland Switzerland-1 Switzerland-2 Sydney\ Rowing\ Club Sylvia Symphony Syndi Syria Taifun Tajamar Tajikistan Tan-Fe-Pah Tango Tantalus Tanzania Tengiri Teresita Terrible Thailand Thailand-1 Thailand-2 Thalatta Thames\ Rowing\ Club The\ Cloud Thessalonki-1 Three\ Leaves Three\ Star\ Too Tichiboo Tilly Tim-Tam\ III Timor\ Leste Tineke Tip Titia Tlaloc Togo Tom\ Kyle Tomahawk\ II Tonga Tornade-16 Tornado Toronto\ Argonauts Tournade-40 Tramontane Trans-Mississippi\ Golf\ Association-2 Trickson\ VI Trinidad\ and\ Tobago Trintel\ II Tritons\ Lillois-2 Tu-Fri Tulilind Tunisia Turkey Turkmenistan Turnverein\ Vorwrts,\ Chicago Turnverein\ Vorwrts,\ Cleveland Turquoise-1 Turquoise-3 Tutti\ V Tuvalu Twinkle Twins\ II Twins\ VIII USFSA Ubu Uganda Ukraine Ukraine-1 Ukraine-2 Umberta\ V Unified\ Team Unified\ Team-1 Unified\ Team-2 Unified\ Team-3 Union\ des\ Socits\ Franais\ de\ Sports\ Athletiques Unique United\ Arab\ Emirates United\ Arab\ Republic United\ States United\ States\ Golf\ Association-3 United\ States\ Virgin\ Islands United\ States\ Virgin\ Islands-1 United\ States\ Virgin\ Islands-2 United\ States-1 United\ States-2 United\ States-3 United\ States-4 United\ States-5 United\ States-6 United\ States-7 United\ States-8 United\ States-9 United\ States-10 United\ States-11 United\ States-12 United\ States-13 United\ States-14 United\ States/France United\ States/Great\ Britain Univ.\ of\ Brussels Unknown Upton\ Park\ FC Uragan Uruguay Uzbekistan Uzbekistan-1 Uzbekistan-2 Vanuatu Vaxholm\ Roddklubb Venezuela Venilia Vento\ Sul Verveine-19 Verveine-41 Vesania Vesper\ Boat\ Club Vicking Vietnam Viking Viktoriya Vim\ III Vinga-1 Vinha Virginie Vision Voloira\ II Wales-4 Wannsee Web\ II Web\ III Wendehals West\ Germany West\ Germany-1 West\ Germany-2 West\ Germany-3 West\ Indies\ Federation Western\ Golf\ Association-1 Western\ Rowing\ Club-3 Whirlaway Whisper White\ Lady Whitini\ Star Widgeon Wiking Willem-Six Windor Winnipeg\ Shamrocks-1 Wolseley-Siddeley-1 Xantippa Xolotl Yangon Yemen Yeoman Yeoman\ V Yeoman\ VII Yeoman\ XII Ylliam\ II Ylliam\ VII Ylliam\ VIII Yugoslavia Yugoslavia-1 Yugoslavia-2 Zambia Zefyros Zimbabwe Zut rn-2","Afghanistan Albania Algeria American\ Samoa Andorra Angola Antigua Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Boliva Bosnia\ and\ Herzegovina Botswana Brazil Brunei Bulgaria Burkina\ Faso Burundi Cambodia Cameroon Canada Cape\ Verde Cayman\ Islands Central\ African\ Republic Chad Chile China Colombia Comoros Cook\ Islands Costa\ Rica Croatia Cuba Curacao Cyprus Czech\ Republic Democratic\ Republic\ of\ the\ Congo Denmark Djibouti Dominica Dominican\ Republic Ecuador Egypt El\ Salvador Equatorial\ Guinea Eritrea Estonia Ethiopia Fiji Finland France Gabon Gambia Georgia Germany Ghana Greece Grenada Guam Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Indonesia Iran Iraq Ireland Israel Italy Ivory\ Coast Jamaica Japan Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall\ Islands Mauritania Mauritius Mexico Micronesia Moldova Monaco Mongolia Montenegro Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New\ Zealand Nicaragua Niger Nigeria North\ Korea Norway Oman Pakistan Palau Palestine Panama Papua\ New\ Guinea Paraguay Peru Philippines Poland Portugal Puerto\ Rico Qatar Republic\ of\ Congo Romania Russia Rwanda Saint\ Kitts Saint\ Lucia Saint\ Vincent Samoa San\ Marino Sao\ Tome\ and\ Principe Saudi\ Arabia Senegal Serbia Seychelles Sierra\ Leone Slovakia Slovenia Solomon\ Islands Somalia South\ Africa South\ Korea South\ Sudan Spain Sri\ Lanka Sudan Suriname Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Timor-Leste Togo Tonga Trinidad Tunisia Turkey Turkmenistan UK USA Uganda Ukraine United\ Arab\ Emirates Uruguay Uzbekistan Vanuatu Venezuela Vietnam Virgin\ Islands,\ British Virgin\ Islands,\ US Yemen Zambia Zimbabwe"
+class,meta,meta,,,,,,,,,,,,
+No Medal,Sarah Abitbol,FRA,150,22,43,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,46.7326,2.19266,France-1,France
+No Medal,Alisa Agafonova,TUR,171,23,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,38.9574,35.4809,Turkey,Turkey
+No Medal,Marina Aganina,UZB,158,20,51,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,41.3702,63.3913,Uzbekistan,Uzbekistan
+No Medal,Zsuzsa Almssy,HUN,158,13,60,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Zsuzsa Almssy,HUN,158,17,60,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Zsuzsa Almssy,HUN,158,21,60,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Miki Ando,JPN,162,18,50,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,43.4657,143.335,Japan,Japan
+No Medal,Miki Ando,JPN,162,22,50,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,43.4657,143.335,Japan,Japan
+No Medal,Marta Andrade Vidal,ESP,162,21,48,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,39.8819,-3.48933,Spain,Spain
+No Medal,Marta Andrade Vidal,ESP,162,25,48,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,39.8819,-3.48933,Spain,Spain
+No Medal,Manuela Angeli,ITA,172,16,58,Figure Skating,Figure Skating Women's Singles,F,1956,Winter,42.5005,12.687,Italy,Italy
+Bronze,Marina Vyacheslavovna Anissina (-Dzhigurda),FRA,162,22,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,46.7326,2.19266,France-1,France
+Gold,Marina Vyacheslavovna Anissina (-Dzhigurda),FRA,162,26,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,46.7326,2.19266,France-1,France
+No Medal,Marie Arai,JPN,154,16,45,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,43.4657,143.335,Japan,Japan
+No Medal,Shizuka Arakawa,JPN,164,16,50,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,43.4657,143.335,Japan,Japan
+Gold,Shizuka Arakawa,JPN,164,24,50,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,43.4657,143.335,Japan,Japan
+Silver,Mao Asada,JPN,163,19,50,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,43.4657,143.335,Japan,Japan
+No Medal,Mao Asada,JPN,163,23,50,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Mao Asada,JPN,163,23,50,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Marina Aleksandrovna Avstriyskaya,URS,165,16,47,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,59.4643,88.3972,Soviet Union-3,Russia
+No Medal,Zuzana Babiakov (Paurov-),SVK,168,23,54,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,48.6747,19.6436,Slovakia,Slovakia
+No Medal,Tai Reina Babilonia (-Butler),USA,159,15,46,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Sabine Bae (-Marbach),GDR,154,18,40,Figure Skating,Figure Skating Mixed Pairs,F,1980,Winter,51.1135,10.5197,East Germany-2,Germany
+No Medal,Sabine Bae (-Marbach),GDR,154,22,40,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,51.1135,10.5197,East Germany-1,Germany
+Gold,Oksana Serhivna Baiul,UKR,159,16,43,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Sherry Ball,CAN,160,17,41,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,56.8373,-110.436,Canada-3,Canada
+No Medal,Sonja Balun,AUT,159,16,50,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,47.694,14.7471,Austria,Austria
+No Medal,Bao Zhenghua,CHN,158,14,,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,36.9026,98.5938,China,China
+No Medal,Bao Zhenghua,CHN,158,18,,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,36.9026,98.5938,China,China
+No Medal,Karen A. Barber (-Pickavance),GBR,165,18,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,54.3103,-1.90973,Great Britain-2,UK
+No Medal,Karen A. Barber (-Pickavance),GBR,165,22,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,54.3103,-1.90973,Great Britain-2,UK
+No Medal,Vera Yevgenyevna Bazarova,RUS,158,17,46,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Vera Yevgenyevna Bazarova,RUS,158,21,46,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Antonia Becherer,FRG,171,24,58,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,51.1135,10.5197,West Germany,Germany
+Silver,"Yelena Yuryevna Bechke (-Petrova, -Ellis)",EUN,158,26,48,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,59.4643,88.3972,Unified Team-2,Russia
+No Medal,Christina Beier,GER,170,25,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,51.1135,10.5197,Germany,Germany
+Silver,Tanith Jessica Louise Belbin,USA,167,21,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Tanith Jessica Louise Belbin,USA,167,25,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Lyudmila Yevgenevna Belousova (-Protopopova),URS,160,24,46,Figure Skating,Figure Skating Mixed Pairs,F,1960,Winter,59.4643,88.3972,Soviet Union-2,Russia
+Gold,Lyudmila Yevgenevna Belousova (-Protopopova),URS,160,28,46,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,59.4643,88.3972,Soviet Union-1,Russia
+Gold,Lyudmila Yevgenevna Belousova (-Protopopova),URS,160,32,46,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,59.4643,88.3972,Soviet Union-1,Russia
+No Medal,Denise Benning (-Reid),CAN,154,20,47,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Kateina Bernkov,CZE,160,20,49,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Kateina Bernkov,CZE,160,24,49,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Yelena Viktorovna Berezhnaya,LAT,154,16,42,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,56.868,24.3816,Latvia,Latvia
+Silver,Yelena Viktorovna Berezhnaya,RUS,154,20,42,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,59.4643,88.3972,Russia-2,Russia
+Gold,Yelena Viktorovna Berezhnaya,RUS,154,24,42,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,59.4643,88.3972,Russia-1,Russia
+No Medal,Enik Berkes,HUN,168,18,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Linda Christine Bernard,GBR,150,17,51,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Stefania Berton,ITA,161,23,,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,42.5005,12.687,Italy-1,Italy
+No Medal,Stefania Berton,ITA,161,23,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,42.5005,12.687,Italy,Italy
+No Medal,Oljga Bestndigov,SVK,153,22,46,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,48.6747,19.6436,Slovakia,Slovakia
+No Medal,Nataliya Filimonovna Bestemyanova (-Bobrina),URS,170,20,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,59.4643,88.3972,Soviet Union-3,Russia
+Silver,Nataliya Filimonovna Bestemyanova (-Bobrina),URS,170,24,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,59.4643,88.3972,Soviet Union-1,Russia
+Gold,Nataliya Filimonovna Bestemyanova (-Bobrina),URS,170,28,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,59.4643,88.3972,Soviet Union-1,Russia
+No Medal,Sandra Marie Bezic,CAN,162,15,54,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Denise Biellmann,SUI,160,17,47,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Yuliya Bilohlazova,UKR,164,18,51,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,48.792,31.0623,Ukraine-2,Ukraine
+No Medal,Judy Ann Blumberg,USA,157,22,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Judy Ann Blumberg,USA,157,26,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Nicole Bobek (-Leal),USA,165,20,55,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,37.2472,-99.6968,United States,USA
+No Medal,Yekaterina Aleksandrovna Bobrova,RUS,160,19,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Yekaterina Aleksandrovna Bobrova,RUS,160,23,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,59.4643,88.3972,Russia-2,Russia
+Gold,Yekaterina Aleksandrovna Bobrova,RUS,160,23,49,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Tony-Sabrina Bombardieri,ITA,172,19,55,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,42.5005,12.687,Italy,Italy
+No Medal,Surya (Claudine-) Bonaly,FRA,156,18,50,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,46.7326,2.19266,France,France
+No Medal,Surya (Claudine-) Bonaly,FRA,156,20,50,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,46.7326,2.19266,France,France
+No Medal,Surya (Claudine-) Bonaly,FRA,156,24,50,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,46.7326,2.19266,France,France
+No Medal,Petra Born,FRG,166,18,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Shae-Lynn Bourne (-Morozov),CAN,163,18,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Shae-Lynn Bourne (-Morozov),CAN,163,22,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Shae-Lynn Bourne (-Morozov),CAN,163,26,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Khristina Boyanova,BUL,164,17,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,42.7353,25.1868,Bulgaria,Bulgaria
+No Medal,Isabelle Brasseur (-Marval),CAN,150,17,44,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,56.8373,-110.436,Canada-3,Canada
+Bronze,Isabelle Brasseur (-Marval),CAN,150,21,44,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,56.8373,-110.436,Canada-1,Canada
+Bronze,Isabelle Brasseur (-Marval),CAN,150,23,44,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Susan Mirjam Broman (-Lnnqvist),FIN,164,20,55,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,64.941,27.4203,Finland,Finland
+No Medal,Barbara Marie Brown,USA,153,18,48,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,Melanie Bruce,GBR,162,20,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Andre Marguerite Blanche Brunet-Joly,FRA,165,22,,Figure Skating,Figure Skating Women's Singles,F,1924,Winter,46.7326,2.19266,France,France
+Bronze,Andre Marguerite Blanche Brunet-Joly,FRA,165,22,,Figure Skating,Figure Skating Mixed Pairs,F,1924,Winter,46.7326,2.19266,France-1,France
+No Medal,Andre Marguerite Blanche Brunet-Joly,FRA,165,26,,Figure Skating,Figure Skating Women's Singles,F,1928,Winter,46.7326,2.19266,France,France
+Gold,Andre Marguerite Blanche Brunet-Joly,FRA,165,26,,Figure Skating,Figure Skating Mixed Pairs,F,1928,Winter,46.7326,2.19266,France,France
+Gold,Andre Marguerite Blanche Brunet-Joly,FRA,165,30,,Figure Skating,Figure Skating Mixed Pairs,F,1932,Winter,46.7326,2.19266,France,France
+No Medal,Melitta Brunner (-Kreckow),AUT,164,21,,Figure Skating,Figure Skating Women's Singles,F,1928,Winter,47.694,14.7471,Austria,Austria
+Bronze,Melitta Brunner (-Kreckow),AUT,164,21,,Figure Skating,Figure Skating Mixed Pairs,F,1928,Winter,47.694,14.7471,Austria-2,Austria
+No Medal,Wendy Lee Burge,USA,158,18,47,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,37.2472,-99.6968,United States,USA
+Silver,"Friederike ""Fritzi"" Burger (-Nishikawa-, -Russell)",AUT,157,17,,Figure Skating,Figure Skating Women's Singles,F,1928,Winter,47.694,14.7471,Austria,Austria
+Silver,"Friederike ""Fritzi"" Burger (-Nishikawa-, -Russell)",AUT,157,21,,Figure Skating,Figure Skating Women's Singles,F,1932,Winter,47.694,14.7471,Austria,Austria
+Bronze,Petra Burka,CAN,153,17,60,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Sharon Kay Burley (-Sullivan),AUS,170,19,56,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,-24.915,133.076,Australia,Australia
+No Medal,Mariya Viktorovna Butyrskaya,RUS,160,25,49,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Mariya Viktorovna Butyrskaya,RUS,160,29,49,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Florence Cahn,FRA,156,17,47,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,46.7326,2.19266,France,France
+No Medal,Stefania Ida Maria Calegari,ITA,162,24,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,42.5005,12.687,Italy-1,Italy
+No Medal,Anna Cappellini,ITA,161,22,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,42.5005,12.687,Italy-2,Italy
+No Medal,Anna Cappellini,ITA,161,26,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,42.5005,12.687,Italy-1,Italy
+No Medal,Anna Cappellini,ITA,161,26,52,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,42.5005,12.687,Italy,Italy
+No Medal,"Linda Carbonetto (-Engel, -Villella)",CAN,159,18,49,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Sandra Cariboni,SUI,171,20,58,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Danielle Carr-McGrath,AUS,148,22,47,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,-24.915,133.076,Australia,Australia
+No Medal,Danielle Carr-McGrath,AUS,148,24,47,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,-24.915,133.076,Australia,Australia
+No Medal,Danielle Carr-McGrath,AUS,148,28,47,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,-24.915,133.076,Australia,Australia
+No Medal,Pernelle Carron,FRA,160,27,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,46.7326,2.19266,France-2,France
+No Medal,"Caitlin A. ""Kitty"" Carruthers (-Conrad)",USA,152,18,44,Figure Skating,Figure Skating Mixed Pairs,F,1980,Winter,37.2472,-99.6968,United States-1,USA
+Silver,"Caitlin A. ""Kitty"" Carruthers (-Conrad)",USA,152,22,44,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Joanne Carter,AUS,159,17,52,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,-24.915,133.076,Australia,Australia
+No Medal,Joanne Carter,AUS,159,25,52,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,-24.915,133.076,Australia,Australia
+No Medal,Marissa Castelli,USA,152,23,48,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,37.2472,-99.6968,United States-1,USA
+Bronze,Marissa Castelli,USA,152,23,48,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,37.2472,-99.6968,United States,USA
+No Medal,Galit Chait,ISR,153,23,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,31.4553,34.6746,Israel,Israel
+No Medal,Galit Chait,ISR,153,27,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,31.4553,34.6746,Israel-1,Israel
+No Medal,Galit Chait,ISR,153,31,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,31.4553,34.6746,Israel-1,Israel
+No Medal,Chen Lu,CHN,162,15,52,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,36.9026,98.5938,China,China
+Bronze,Chen Lu,CHN,162,17,52,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,36.9026,98.5938,China,China
+Bronze,Chen Lu,CHN,162,21,52,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,36.9026,98.5938,China,China
+Silver,Marina Yevgenyevna Cherkasova,URS,155,15,,Figure Skating,Figure Skating Mixed Pairs,F,1980,Winter,59.4643,88.3972,Soviet Union-2,Russia
+No Medal,Svitlana Ivanivna Chernikova,UKR,167,16,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,48.792,31.0623,Ukraine-2,Ukraine
+No Medal,Irina Chernyayeva (-Anisina),URS,162,16,50,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,59.4643,88.3972,Soviet Union-3,Russia
+No Medal,Audrey Tiffany (Tingting-) Chin,USA,150,16,41,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,37.2472,-99.6968,United States,USA
+No Medal,Madison La'akea Te-Lan Hall Chock,USA,157,21,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Jose Chouinard (-Bombardier),CAN,157,22,50,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Jose Chouinard (-Bombardier),CAN,157,24,50,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Radmila Chrobokov,CZE,167,17,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,49.8004,15.5126,Czech Republic-2,Czech Republic
+No Medal,Tetiana Chuvaieva,UKR,152,18,,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,48.792,31.0623,Ukraine-2,Ukraine
+No Medal,eljka imeija,YUG,160,17,44,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,44.2026,20.9973,Yugoslavia,Serbia
+No Medal,eljka imeija,CRO,160,21,44,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,44.7467,15.3181,Croatia,Croatia
+No Medal,Diana Cynthia Clifton-Peach (-Stevens),GBR,160,19,52,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Michela Cobisi,ITA,160,19,45,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,42.5005,12.687,Italy,Italy
+No Medal,"Alexandra Pauline ""Sasha"" Cohen",USA,157,17,43,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,37.2472,-99.6968,United States,USA
+Silver,"Alexandra Pauline ""Sasha"" Cohen",USA,157,21,43,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,37.2472,-99.6968,United States,USA
+No Medal,Magdalena Cecilia Colledge,GBR,152,11,,Figure Skating,Figure Skating Women's Singles,F,1932,Winter,54.3103,-1.90973,Great Britain,UK
+Silver,Magdalena Cecilia Colledge,GBR,152,15,,Figure Skating,Figure Skating Women's Singles,F,1936,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Linda Patricia Connolly (-Eagles),GBR,150,19,44,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,"Joanne Conway (-Owers, -Dunn)",GBR,162,16,57,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,"Joanne Conway (-Owers, -Dunn)",GBR,162,20,57,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Alice Maxine Cook,USA,157,20,48,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Penny Jane Coomes,GBR,152,20,43,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,54.3103,-1.90973,Great Britain-2,UK
+No Medal,Penny Jane Coomes,GBR,152,24,43,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Penny Jane Coomes,GBR,152,24,43,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Karen Courtland (-Kelly),USA,152,23,45,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,Lyndsai Cowan,CAN,159,19,52,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Anna Croci,ITA,159,19,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,42.5005,12.687,Italy-2,Italy
+No Medal,Vanessa Crone,CAN,160,19,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Lisa Cushley,GBR,165,18,43,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,54.3103,-1.90973,Great Britain-2,UK
+No Medal,Krisztina Czak (-Horvth),HUN,155,13,41,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Krisztina Czak (-Horvth),HUN,155,15,41,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Gabrielle Daleman,CAN,152,16,46,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Andrea Davidovich,ISR,152,16,,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,31.4553,34.6746,Israel,Israel
+Silver,Meryl Elizabeth Davis,USA,160,23,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,37.2472,-99.6968,United States-1,USA
+Gold,Meryl Elizabeth Davis,USA,160,27,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,37.2472,-99.6968,United States-1,USA
+Bronze,Meryl Elizabeth Davis,USA,160,27,49,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,37.2472,-99.6968,United States,USA
+No Medal,Dianne Margaret de Leeuw,NED,165,16,57,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,52.1079,5.5341,Netherlands,Netherlands
+Silver,Dianne Margaret de Leeuw,NED,165,20,57,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,52.1079,5.5341,Netherlands,Netherlands
+No Medal,Yvonne de Ligne (Geurts-),BEL,168,24,,Figure Skating,Figure Skating Women's Singles,F,1932,Winter,50.5023,4.84062,Belgium,Belgium
+No Medal,Yvonne de Ligne (Geurts-),BEL,168,28,,Figure Skating,Figure Skating Women's Singles,F,1936,Winter,50.5023,4.84062,Belgium,Belgium
+No Medal,Isabel Duval de Navarre,FRG,160,15,45,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Isabel Duval de Navarre,FRG,160,19,45,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Nicole Della Monica,ITA,156,20,48,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,42.5005,12.687,Italy,Italy
+No Medal,Nicole Della Monica,ITA,156,24,48,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,42.5005,12.687,Italy-2,Italy
+No Medal,Isabelle Delobel,FRA,163,23,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,46.7326,2.19266,France-2,France
+No Medal,Isabelle Delobel,FRA,163,27,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,46.7326,2.19266,France-1,France
+No Medal,Isabelle Delobel,FRA,163,31,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,46.7326,2.19266,France-1,France
+No Medal,Dominique Deniaud,FRA,160,20,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,46.7326,2.19266,France-3,France
+No Medal,Albena Petrova Denkova (-Stavisky),BUL,165,23,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,42.7353,25.1868,Bulgaria,Bulgaria
+No Medal,Albena Petrova Denkova (-Stavisky),BUL,165,27,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,42.7353,25.1868,Bulgaria,Bulgaria
+No Medal,Albena Petrova Denkova (-Stavisky),BUL,165,31,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,42.7353,25.1868,Bulgaria,Bulgaria
+No Medal,Caydee Christine Denney,USA,152,16,48,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Sjoukje Rosalinde Dijkstra (-Kossmayer),NED,169,13,54,Figure Skating,Figure Skating Women's Singles,F,1956,Winter,52.1079,5.5341,Netherlands,Netherlands
+Silver,Sjoukje Rosalinde Dijkstra (-Kossmayer),NED,169,18,54,Figure Skating,Figure Skating Women's Singles,F,1960,Winter,52.1079,5.5341,Netherlands,Netherlands
+Gold,Sjoukje Rosalinde Dijkstra (-Kossmayer),NED,169,21,54,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,52.1079,5.5341,Netherlands,Netherlands
+No Medal,Agnieszka Domaska,POL,160,18,68,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Oksana Aleksandrovna Domnina,RUS,173,21,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,59.4643,88.3972,Russia-2,Russia
+Bronze,Oksana Aleksandrovna Domnina,RUS,173,25,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,59.4643,88.3972,Russia-1,Russia
+No Medal,Liana Drahov (-Vozrov),TCH,157,14,43,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,49.8004,15.5126,Czechoslovakia-2,Czech Republic
+No Medal,Alisa Drei,FIN,157,19,45,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,64.941,27.4203,Finland,Finland
+No Medal,Susanna Driano,ITA,165,18,55,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,42.5005,12.687,Italy,Italy
+No Medal,Susanna Driano,ITA,165,22,55,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,42.5005,12.687,Italy,Italy
+No Medal,Margarita Drobiazko,LTU,170,20,58,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,55.1691,24.1437,Lithuania,Lithuania
+No Medal,Margarita Drobiazko,LTU,170,22,58,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,55.1691,24.1437,Lithuania,Lithuania
+No Medal,Margarita Drobiazko,LTU,170,26,58,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,55.1691,24.1437,Lithuania,Lithuania
+No Medal,Margarita Drobiazko,LTU,170,30,58,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,55.1691,24.1437,Lithuania,Lithuania
+No Medal,Margarita Drobiazko,LTU,170,34,58,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,55.1691,24.1437,Lithuania,Lithuania
+No Medal,Sylvaine Duban,FRA,166,18,59,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,46.7326,2.19266,France,France
+No Medal,Jessica Dub,CAN,150,18,52,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Jessica Dub,CAN,150,22,52,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Sanda Dubravi (-imunjak),YUG,162,15,48,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,44.2026,20.9973,Yugoslavia,Serbia
+No Medal,Sanda Dubravi (-imunjak),YUG,162,19,48,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,44.2026,20.9973,Yugoslavia,Serbia
+No Medal,Marie-France Dubreuil,CAN,162,27,46,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Marie-France Dubreuil,CAN,162,31,46,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Isabelle Duchesnay (-Dean),FRA,168,24,55,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,46.7326,2.19266,France-1,France
+Silver,Isabelle Duchesnay (-Dean),FRA,168,28,55,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,46.7326,2.19266,France-1,France
+No Medal,Grayna Dudek,POL,159,15,50,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Meagan Duhamel,CAN,148,28,48,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,56.8373,-110.436,Canada-1,Canada
+Silver,Meagan Duhamel,CAN,148,28,48,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Polina Edmunds,USA,165,15,43,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,37.2472,-99.6968,United States,USA
+No Medal,Klra Engi,HUN,165,16,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Klra Engi,HUN,165,20,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Klra Engi,HUN,165,24,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,47.1592,19.1229,Hungary-1,Hungary
+No Medal,"Christine Errath (-Trettin, -Stber)",GDR,158,15,50,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,51.1135,10.5197,East Germany,Germany
+Bronze,"Christine Errath (-Trettin, -Stber)",GDR,158,19,50,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,51.1135,10.5197,East Germany,Germany
+No Medal,Amanda Evora,USA,152,25,45,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Federica Faiella,ITA,166,21,55,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,42.5005,12.687,Italy-2,Italy
+No Medal,Federica Faiella,ITA,166,25,55,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,42.5005,12.687,Italy-2,Italy
+No Medal,Federica Faiella,ITA,166,29,55,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,42.5005,12.687,Italy-1,Italy
+No Medal,"Gun Ann-Charlotte ""Lotta"" Falkenbck (-Bergqvist)",SWE,162,28,50,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,62.1827,14.9052,Sweden,Sweden
+No Medal,Monika Feldmann,FRG,160,16,48,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Yevheniya Filanenko,UKR,149,15,40,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Eva-Maria Fitze,GER,159,23,48,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,51.1135,10.5197,Germany-2,Germany
+No Medal,Rachael Elizabeth Flatt,USA,157,17,50,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,37.2472,-99.6968,United States,USA
+No Medal,Peggy Gale Fleming (-Jenkins),USA,163,15,50,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,37.2472,-99.6968,United States,USA
+Gold,Peggy Gale Fleming (-Jenkins),USA,163,19,50,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,37.2472,-99.6968,United States,USA
+No Medal,Silvia Fontana (-Zimmerman),ITA,158,25,55,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,42.5005,12.687,Italy,Italy
+No Medal,Silvia Fontana (-Zimmerman),ITA,158,29,55,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,42.5005,12.687,Italy,Italy
+No Medal,"Anne Louise ""Anna"" Forder (-McLaughlin)",CAN,158,16,49,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,"Judianne ""Judi"" Fotheringill (-Fuller)",USA,170,19,57,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Carol Jean Fox,USA,162,27,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Kerstin Frank,AUT,163,25,55,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,47.694,14.7471,Austria,Austria
+No Medal,Kristin Fraser,AZE,168,21,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,40.1478,47.7286,Azerbaijan,Azerbaijan
+No Medal,Kristin Fraser,AZE,168,25,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,40.1478,47.7286,Azerbaijan,Azerbaijan
+No Medal,Linda Sue Fratianne,USA,153,15,41,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,37.2472,-99.6968,United States,USA
+Silver,Linda Sue Fratianne,USA,153,19,41,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,37.2472,-99.6968,United States,USA
+No Medal,Ann-Margreth Frei-Kck (-Hall),SWE,155,21,52,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,62.1827,14.9052,Sweden,Sweden
+No Medal,Henriette Frschl,FRG,168,20,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Miwa Fukuhara,JPN,156,15,52,Figure Skating,Figure Skating Women's Singles,F,1960,Winter,43.4657,143.335,Japan,Japan
+No Medal,Miwa Fukuhara,JPN,156,19,52,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,43.4657,143.335,Japan,Japan
+No Medal,Gina Fulton (-Carter),GBR,160,17,49,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Barbara Fusar Poli,ITA,168,26,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,42.5005,12.687,Italy-1,Italy
+Bronze,Barbara Fusar Poli,ITA,168,30,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,42.5005,12.687,Italy-1,Italy
+No Medal,Barbara Fusar Poli,ITA,168,34,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,42.5005,12.687,Italy-1,Italy
+No Medal,"Susan Jane ""Susy"" Garland",GBR,155,13,50,Figure Skating,Figure Skating Mixed Pairs,F,1980,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,"Susan Jane ""Susy"" Garland",GBR,155,17,50,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Karyn Garossino,CAN,157,22,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Elene Gedevanishvili,GEO,160,16,41,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,42.287,43.6358,Georgia,Georgia
+No Medal,Elene Gedevanishvili,GEO,160,20,41,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,42.287,43.6358,Georgia,Georgia
+No Medal,Elene Gedevanishvili,GEO,160,24,41,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,42.287,43.6358,Georgia,Georgia
+No Medal,Judi Ann Genovesi (-Alder),USA,163,18,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Diane Gerencser,ITA,165,26,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,42.5005,12.687,Italy-2,Italy
+No Medal,Anastasiya Gimazetdinova,UZB,180,25,56,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,41.3702,63.3913,Uzbekistan,Uzbekistan
+No Medal,Anastasiya Gimazetdinova,UZB,180,29,56,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,41.3702,63.3913,Uzbekistan,Uzbekistan
+No Medal,Vanessa Giunchi,ITA,157,21,54,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,42.5005,12.687,Italy,Italy
+No Medal,Anne Line Gjersem,NOR,158,20,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,79.8486,22.6903,Norway,Norway
+No Medal,Anuschka Glser (-Tandogan),GER,158,24,48,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,51.1135,10.5197,Germany-2,Germany
+No Medal,Jelena Glebova,EST,165,16,49,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,58.5935,25.4947,Estonia,Estonia
+No Medal,Jelena Glebova,EST,165,20,49,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,58.5935,25.4947,Estonia,Estonia
+No Medal,Jelena Glebova,EST,165,24,49,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,58.5935,25.4947,Estonia,Estonia
+Bronze,Margot Glockshuber,FRG,166,18,50,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,51.1135,10.5197,West Germany-1,Germany
+No Medal,"Grace Elizabeth ""Gracie"" Gold",USA,165,18,54,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,37.2472,-99.6968,United States,USA
+Bronze,"Grace Elizabeth ""Gracie"" Gold",USA,165,18,54,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,37.2472,-99.6968,United States,USA
+No Medal,Yvonne Gmez Muoz,ESP,157,21,46,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,39.8819,-3.48933,Spain,Spain
+No Medal,Jennifer Goolsbee,GER,152,25,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Honorata Grna,POL,166,19,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Agns Gosselin (-Tavernier),FRA,160,16,50,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,46.7326,2.19266,France,France
+No Medal,Agns Gosselin (-Tavernier),FRA,160,20,50,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,46.7326,2.19266,France,France
+No Medal,Anastasia Grebenkina,ARM,168,27,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,40.0768,44.8402,Armenia,Armenia
+No Medal,Melissa Gregory,USA,165,24,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Yelena Anatolyevna Grigoryeva,BLR,159,19,48,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,53.692,28.0254,Belarus,Belarus
+No Medal,Wendy Elizabeth Griner (-Ballantyne),CAN,156,15,56,Figure Skating,Figure Skating Women's Singles,F,1960,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Wendy Elizabeth Griner (-Ballantyne),CAN,156,19,56,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,56.8373,-110.436,Canada,Canada
+No Medal,"Oksana Vladimirovna ""Pasha"" Grishchuk",EUN,164,20,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,59.4643,88.3972,Unified Team-3,Russia
+Gold,"Oksana Vladimirovna ""Pasha"" Grishchuk",RUS,164,22,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,59.4643,88.3972,Russia-1,Russia
+Gold,"Oksana Vladimirovna ""Pasha"" Grishchuk",RUS,164,26,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,59.4643,88.3972,Russia-1,Russia
+Bronze,Manuela Gro (-Leupold),GDR,162,15,51,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,51.1135,10.5197,East Germany-1,Germany
+Bronze,Manuela Gro (-Leupold),GDR,162,19,51,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,51.1135,10.5197,East Germany-2,Germany
+No Medal,Birgitta Helena Grundberg (-Chilly),SWE,166,25,57,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,62.1827,14.9052,Sweden,Sweden
+No Medal,Natalia Gudina,ISR,160,24,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,31.4553,34.6746,Israel-2,Israel
+No Medal,Charlene Edith Magali Guignard,ITA,158,24,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,42.5005,12.687,Italy-2,Italy
+No Medal,Charlene Edith Magali Guignard,ITA,158,24,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,42.5005,12.687,Italy,Italy
+No Medal,Vanessa Gusmeroli,FRA,160,19,49,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,46.7326,2.19266,France,France
+No Medal,Vanessa Gusmeroli,FRA,160,23,49,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,46.7326,2.19266,France,France
+No Medal,Gwak Min-Jeong,KOR,159,16,41,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,Joan Haanappel,NED,160,15,53,Figure Skating,Figure Skating Women's Singles,F,1956,Winter,52.1079,5.5341,Netherlands,Netherlands
+No Medal,Joan Haanappel,NED,160,19,53,Figure Skating,Figure Skating Women's Singles,F,1960,Winter,52.1079,5.5341,Netherlands,Netherlands
+No Medal,Lyne Haddad,FRA,148,13,35,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,46.7326,2.19266,France,France
+No Medal,Christine Haigler (-Krall),USA,162,16,52,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,37.2472,-99.6968,United States,USA
+No Medal,Kamila Hjkov,CZE,170,22,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Corinna Halke (-Teichmann),FRG,157,14,45,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,51.1135,10.5197,West Germany-2,Germany
+No Medal,Corinna Halke (-Teichmann),FRG,157,18,45,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,51.1135,10.5197,West Germany,Germany
+Gold,"Dorothy Stuart Hamill (-Martin, -Forsythe)",USA,160,19,55,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,37.2472,-99.6968,United States,USA
+No Medal,Brooklee Han,AUS,150,18,42,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,-24.915,133.076,Australia,Australia
+No Medal,Beata Handra,USA,160,25,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,"Susanne ""Susi"" Handschmann",AUT,160,16,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,47.694,14.7471,Austria,Austria
+No Medal,"Susanne ""Susi"" Handschmann",AUT,160,20,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,47.694,14.7471,Austria,Austria
+No Medal,"Tonya Maxine Harding (-Gillooly, -Smith, -Price)",USA,155,21,48,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,37.2472,-99.6968,United States,USA
+No Medal,"Tonya Maxine Harding (-Gillooly, -Smith, -Price)",USA,155,23,48,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,37.2472,-99.6968,United States,USA
+No Medal,Nicole Hassler,FRA,157,18,47,Figure Skating,Figure Skating Women's Singles,F,1960,Winter,46.7326,2.19266,France,France
+No Medal,Nicole Hassler,FRA,157,22,47,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,46.7326,2.19266,France,France
+No Medal,Maylin Hausch-Wende,GER,154,21,48,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,51.1135,10.5197,Germany-2,Germany
+No Medal,Maylin Hausch-Wende,GER,154,25,48,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,51.1135,10.5197,Germany-2,Germany
+No Medal,Maylin Hausch-Wende,GER,154,25,48,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Gudrun Hauss,FRG,164,19,53,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,51.1135,10.5197,West Germany-2,Germany
+No Medal,Sarah Stefanie Hecken,GER,170,16,58,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Siobhan Heekin-Canedy,UKR,168,22,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Siobhan Heekin-Canedy,UKR,168,22,51,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Idora Hegel,CRO,167,18,53,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,44.7467,15.3181,Croatia,Croatia
+No Medal,Idora Hegel,CRO,167,22,53,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,44.7467,15.3181,Croatia,Croatia
+No Medal,Hanna Viktoria Helgesson,SWE,165,25,56,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,62.1827,14.9052,Sweden,Sweden
+No Medal,"Sonja Henie (-Topping, -Gardiner, -Onstad)",NOR,155,11,45,Figure Skating,Figure Skating Women's Singles,F,1924,Winter,79.8486,22.6903,Norway,Norway
+Gold,"Sonja Henie (-Topping, -Gardiner, -Onstad)",NOR,155,15,45,Figure Skating,Figure Skating Women's Singles,F,1928,Winter,79.8486,22.6903,Norway,Norway
+Gold,"Sonja Henie (-Topping, -Gardiner, -Onstad)",NOR,155,19,45,Figure Skating,Figure Skating Women's Singles,F,1932,Winter,79.8486,22.6903,Norway,Norway
+Gold,"Sonja Henie (-Topping, -Gardiner, -Onstad)",NOR,155,23,45,Figure Skating,Figure Skating Women's Singles,F,1936,Winter,79.8486,22.6903,Norway,Norway
+No Medal,Nathalie Herv,FRA,164,20,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,46.7326,2.19266,France,France
+No Medal,Marcy Hinzmann,USA,155,23,48,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Nra Hoffmann,HUN,171,20,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Nra Hoffmann,HUN,171,24,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Jindra Hol,TCH,163,23,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,49.8004,15.5126,Czechoslovakia,Czech Republic
+No Medal,Julie Lynn Holmes (-Newman),USA,163,20,50,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,37.2472,-99.6968,United States,USA
+No Medal,Yuliya Holovina,UKR,165,19,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,48.792,31.0623,Ukraine-2,Ukraine
+No Medal,Yuliya Holovina,UKR,165,23,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,48.792,31.0623,Ukraine-2,Ukraine
+No Medal,Christine Hough (-Sweeney),CAN,157,18,47,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Christine Hough (-Sweeney),CAN,157,22,47,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Olena Eduardivna Hrushyna (-Honcharova-),UKR,168,23,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,48.792,31.0623,Ukraine-2,Ukraine
+No Medal,Olena Eduardivna Hrushyna (-Honcharova-),UKR,168,27,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,48.792,31.0623,Ukraine-1,Ukraine
+Bronze,Olena Eduardivna Hrushyna (-Honcharova-),UKR,168,31,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,48.792,31.0623,Ukraine-1,Ukraine
+No Medal,Huang Xintong,CHN,165,23,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,36.9026,98.5938,China,China
+No Medal,Huang Xintong,CHN,165,27,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,36.9026,98.5938,China,China
+No Medal,Huang Xintong,CHN,165,27,48,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,36.9026,98.5938,China,China
+No Medal,Laetitia Hubert,FRA,159,17,50,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,46.7326,2.19266,France,France
+No Medal,Laetitia Hubert,FRA,159,19,50,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,46.7326,2.19266,France,France
+No Medal,Laetitia Hubert,FRA,159,23,50,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,46.7326,2.19266,France,France
+No Medal,Laetitia Hubert,FRA,159,27,50,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,46.7326,2.19266,France,France
+No Medal,Maya Hug,SUI,165,19,,Figure Skating,Figure Skating Women's Singles,F,1948,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Eliane Hugentobler,SUI,159,20,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Emily Anne Hughes (-Mukherjee),USA,165,17,,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,37.2472,-99.6968,United States,USA
+Gold,Sarah Elizabeth Hughes,USA,160,16,,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,37.2472,-99.6968,United States,USA
+No Medal,Shirene Fay Human,RSA,160,18,59,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,-28.4746,26.1195,South Africa,South Africa
+No Medal,Marika Humphreys (-Baranov),GBR,170,25,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Susan Anne Humphreys,CAN,165,18,54,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Sara Hurtado Martn,ESP,160,21,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,39.8819,-3.48933,Spain,Spain
+No Medal,Beatrice Hutiu,ROU,151,11,38,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,45.9636,24.2451,Romania,Romania
+Bronze,Yelena Ruslanovna Ilyinykh,RUS,164,19,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,59.4643,88.3972,Russia-1,Russia
+Gold,Yelena Ruslanovna Ilyinykh,RUS,164,19,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Kyoko Ina,USA,152,21,42,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Kyoko Ina,USA,152,25,42,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Kyoko Ina,USA,152,29,42,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Rena Inoue,JPN,150,15,42,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,43.4657,143.335,Japan,Japan
+No Medal,Rena Inoue,JPN,150,17,42,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,43.4657,143.335,Japan,Japan
+No Medal,Rena Inoue,USA,150,29,42,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Cathy Lee Irwin (-Jacobs),CAN,160,19,49,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Haruko Ishida (-Okamoto),JPN,158,22,50,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,43.4657,143.335,Japan,Japan
+No Medal,Midori Ito,JPN,145,18,44,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,43.4657,143.335,Japan,Japan
+Silver,Midori Ito,JPN,145,22,44,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,43.4657,143.335,Japan,Japan
+No Medal,Kira Valentinovna Ivanova,URS,159,17,48,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,59.4643,88.3972,Soviet Union,Russia
+Bronze,Kira Valentinovna Ivanova,URS,159,21,48,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,59.4643,88.3972,Soviet Union,Russia
+No Medal,Kira Valentinovna Ivanova,URS,159,25,48,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,59.4643,88.3972,Soviet Union,Russia
+No Medal,Susan Ann Jackson,GBR,158,18,48,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,54.3103,-1.90973,Great Britain,UK
+Silver,Ludovika Antje Margareta Jakobsson-Eilers,FIN,165,39,58,Figure Skating,Figure Skating Mixed Pairs,F,1924,Winter,64.941,27.4203,Finland,Finland
+No Medal,Ludovika Antje Margareta Jakobsson-Eilers,FIN,165,43,58,Figure Skating,Figure Skating Mixed Pairs,F,1928,Winter,64.941,27.4203,Finland,Finland
+No Medal,Ivana Jakupevi,CRO,167,20,48,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,44.7467,15.3181,Croatia,Croatia
+No Medal,Vanessa James,FRA,162,22,48,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,46.7326,2.19266,France,France
+No Medal,Vanessa James,FRA,162,26,48,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,46.7326,2.19266,France,France
+No Medal,Vanessa James,FRA,162,26,48,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,46.7326,2.19266,France,France
+No Medal,Maria Hana Jelinek (Jelnkov- -Harrington),CAN,171,17,,Figure Skating,Figure Skating Mixed Pairs,F,1960,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,"Belita Gladys Lyne Jepson Turner (-Riordan, -Kenny)",GBR,166,12,,Figure Skating,Figure Skating Women's Singles,F,1936,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Berit Unn Sandvik Johansen (-Sissener),NOR,167,16,57,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,79.8486,22.6903,Norway,Norway
+No Medal,Bodil Anita Johansson (-Jacobson),SWE,155,17,51,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,62.1827,14.9052,Sweden,Sweden
+No Medal,Gerda Johner,SUI,161,19,53,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,46.8119,8.427,Switzerland-1,Switzerland
+No Medal,Kelly Johnson,CAN,160,22,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Sharon Jones (-Barker),GBR,150,23,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Jessica Joseph,USA,160,15,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,37.2472,-99.6968,United States-2,USA
+Bronze,Vivian Laureen Joseph,USA,159,15,57,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Micheline Joubert,FRA,150,22,50,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,46.7326,2.19266,France,France
+No Medal,Anna Jurkiewicz,POL,155,26,52,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Caryn Jami Kadavy,USA,162,20,51,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,37.2472,-99.6968,United States,USA
+No Medal,Mila Johanna Kajas (-Virtanen),FIN,162,22,48,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,64.941,27.4203,Finland,Finland
+No Medal,Annette Kansy,GDR,153,16,45,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,51.1135,10.5197,East Germany-2,Germany
+No Medal,Tuba Karademir,TUR,165,20,63,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,38.9574,35.4809,Turkey,Turkey
+No Medal,Tuba Karademir,TUR,165,24,63,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,38.9574,35.4809,Turkey,Turkey
+No Medal,Masako Kato,JPN,159,18,48,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,43.4657,143.335,Japan,Japan
+No Medal,Aleksandra Kauc,POL,160,25,60,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,51.9217,19.1588,Poland,Poland
+No Medal,"Cynthia Diane ""Cindy"" Kauffman (-Marshall)",USA,160,15,49,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,"Cynthia Diane ""Cindy"" Kauffman (-Marshall)",USA,160,19,49,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Mariana Kautz (-Patschinski),GER,155,21,,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Yuko Kavaguti,RUS,157,28,38,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,59.4643,88.3972,Russia-1,Russia
+No Medal,Aya Kawai,JPN,165,22,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,43.4657,143.335,Japan,Japan
+Gold,Oksana Borisovna Kazakova,RUS,158,22,48,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,59.4643,88.3972,Russia-1,Russia
+No Medal,"Susan Marie ""Susie"" Kelley",USA,158,21,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,Heather Kemkaran (-Antymniuk),CAN,152,21,,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Stacey Louise Kemp,GBR,155,21,43,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Stacey Louise Kemp,GBR,155,25,43,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Stacey Louise Kemp,GBR,155,25,43,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Shirra Kenworthy,CAN,162,20,58,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,56.8373,-110.436,Canada,Canada
+Silver,Romy Kermer (-Oesterreich),GDR,164,19,50,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,51.1135,10.5197,East Germany-1,Germany
+No Medal,Sinead Houston Kerr,GBR,167,27,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Sinead Houston Kerr,GBR,167,31,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,54.3103,-1.90973,Great Britain-1,UK
+Bronze,Nancy Ann Kerrigan (-Solomon),USA,162,22,52,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,37.2472,-99.6968,United States,USA
+Silver,Nancy Ann Kerrigan (-Solomon),USA,162,24,52,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,37.2472,-99.6968,United States,USA
+No Medal,"Ursula ""Uschi"" Keler (-Keszler)",GER,168,16,47,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Riikka Elina Kettunen (-Jrvinen),FIN,163,20,52,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,64.941,27.4203,Finland,Finland
+No Medal,Marina Khalturina,KAZ,162,23,48,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,48.029,66.3342,Kazakhstan,Kazakhstan
+No Medal,Yana Vadimovna Khokhlova,RUS,155,20,41,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Yana Vadimovna Khokhlova,RUS,155,24,41,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,59.4643,88.3972,Russia-2,Russia
+No Medal,Marina Kielmann,FRG,172,20,59,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Marina Kielmann,GER,172,24,59,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,51.1135,10.5197,Germany,Germany
+No Medal,"Marika Kilius (-Zahn, -Schfer)",GER,168,12,51,Figure Skating,Figure Skating Mixed Pairs,F,1956,Winter,51.1135,10.5197,Germany,Germany
+Silver,"Marika Kilius (-Zahn, -Schfer)",GER,168,16,51,Figure Skating,Figure Skating Mixed Pairs,F,1960,Winter,51.1135,10.5197,Germany-1,Germany
+Silver,"Marika Kilius (-Zahn, -Schfer)",GER,168,20,51,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,51.1135,10.5197,Germany-1,Germany
+No Medal,Kim Hae-Jin,KOR,162,16,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,Kim Hae-Sung,KOR,160,17,45,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,Kim Hye-Gyeong,KOR,165,17,59,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,Kim Yong-Suk,PRK,150,26,48,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,36.4609,128.017,North Korea,North Korea
+Gold,Yu-Na Kim,KOR,165,19,47,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,36.4609,128.017,South Korea,South Korea
+Silver,Yu-Na Kim,KOR,165,23,47,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,36.4609,128.017,South Korea,South Korea
+Bronze,Marina Vladimirovna Klimova (-Ponomarenko),URS,165,17,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,59.4643,88.3972,Soviet Union-2,Russia
+Silver,Marina Vladimirovna Klimova (-Ponomarenko),URS,165,21,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,59.4643,88.3972,Soviet Union-2,Russia
+Gold,Marina Vladimirovna Klimova (-Ponomarenko),EUN,165,25,47,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,59.4643,88.3972,Unified Team-1,Russia
+No Medal,Tanja Kolbe,GER,169,23,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,51.1135,10.5197,Germany-2,Germany
+No Medal,Anna Anatolyevna Kondrashova (-Levandi),URS,163,18,50,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,59.4643,88.3972,Soviet Union,Russia
+No Medal,Anna Anatolyevna Kondrashova (-Levandi),URS,163,22,50,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,59.4643,88.3972,Soviet Union,Russia
+No Medal,Mojca Kopa,SLO,161,16,52,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,46.1502,14.6159,Slovenia,Slovenia
+No Medal,Mojca Kopa,SLO,161,22,52,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,46.1502,14.6159,Slovenia,Slovenia
+No Medal,Mojca Kopa,SLO,161,26,52,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,46.1502,14.6159,Slovenia,Slovenia
+No Medal,Kiira Linda Katriina Korpi,FIN,166,17,58,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,64.941,27.4203,Finland,Finland
+No Medal,Kiira Linda Katriina Korpi,FIN,166,21,58,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,64.941,27.4203,Finland,Finland
+No Medal,Kateryna Vasylivna Kostenko,UKR,163,25,51,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,48.792,31.0623,Ukraine-2,Ukraine
+No Medal,Carolina Kostner,ITA,169,19,60,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,42.5005,12.687,Italy,Italy
+No Medal,Carolina Kostner,ITA,169,23,60,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,42.5005,12.687,Italy,Italy
+Bronze,Carolina Kostner,ITA,169,26,60,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,42.5005,12.687,Italy,Italy
+No Medal,Carolina Kostner,ITA,169,26,60,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,42.5005,12.687,Italy,Italy
+No Medal,Grayna Maria Kostrzewiska (-Osmaska),POL,163,21,56,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Kateina Kovalov,CZE,164,23,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Radka Kovakov,TCH,161,16,47,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,49.8004,15.5126,Czechoslovakia,Czech Republic
+No Medal,Radka Kovakov,CZE,161,18,47,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Maria Krasiltseva,ARM,163,16,,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,40.0768,44.8402,Armenia,Armenia
+No Medal,Maria Krasiltseva,ARM,163,20,,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,40.0768,44.8402,Armenia,Armenia
+No Medal,Carolyn Patricia Krau,GBR,137,12,36,Figure Skating,Figure Skating Mixed Pairs,F,1956,Winter,54.3103,-1.90973,Great Britain-2,UK
+No Medal,Carolyn Patricia Krau,GBR,137,16,36,Figure Skating,Figure Skating Women's Singles,F,1960,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Claudia Kristofics-Binder,AUT,170,14,50,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,47.694,14.7471,Austria,Austria
+No Medal,Claudia Kristofics-Binder,AUT,170,18,50,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,47.694,14.7471,Austria,Austria
+No Medal,Anzhelika Alekseyevna Krylova,RUS,171,20,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,59.4643,88.3972,Russia-3,Russia
+Silver,Anzhelika Alekseyevna Krylova,RUS,171,24,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,59.4643,88.3972,Russia-2,Russia
+No Medal,Natasha Maria Hanako Kuchiki,USA,159,15,50,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Lenka Kulovan,TCH,171,17,55,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,49.8004,15.5126,Czechoslovakia,Czech Republic
+No Medal,Lenka Kulovan,CZE,171,19,55,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Lenka Kulovan,CZE,171,23,55,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Melinda Kunhegyi (-Farrington),CAN,165,18,55,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,56.8373,-110.436,Canada-3,Canada
+No Medal,Karin Knzle,SUI,162,21,50,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,46.8119,8.427,Switzerland,Switzerland
+Silver,Michelle Wingshan Kwan (-Pell),USA,157,17,49,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,37.2472,-99.6968,United States,USA
+Bronze,Michelle Wingshan Kwan (-Pell),USA,157,21,49,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,37.2472,-99.6968,United States,USA
+No Medal,Sonia Lafuente Martnez,ESP,162,18,50,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,39.8819,-3.48933,Spain,Spain
+No Medal,Naomi Rose Lang (-Fitzgerald),USA,167,23,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Anabelle Langlois (-Hay),CAN,149,20,44,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,56.8373,-110.436,Canada-3,Canada
+No Medal,Anabelle Langlois (-Hay),CAN,149,28,44,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Jacinthe Larivire,CAN,153,20,47,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Julia Lautowa,AUT,164,16,51,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,47.694,14.7471,Austria,Austria
+No Medal,Yuliya Lavrenchuk,UKR,167,19,54,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Yuliya Lavrentieva,UKR,155,16,49,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Yuliya Lavrentieva,UKR,155,16,49,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Paige Lawrence,CAN,153,23,47,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,56.8373,-110.436,Canada-3,Canada
+No Medal,Yulia Lebedeva,ARM,165,23,,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,40.0768,44.8402,Armenia,Armenia
+No Medal,Cheltzie Lee,AUS,154,16,50,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,-24.915,133.076,Australia,Australia
+No Medal,Lee Hyeon-Ju,KOR,143,14,34,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,"Lyoon-Jung ""Lily"" Lee",KOR,162,24,59,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,Chantal Lefebvre,CAN,163,20,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Sabrina Lefranois,FRA,142,17,32,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,46.7326,2.19266,France-2,France
+No Medal,Almut Lehmann,FRG,166,18,52,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,51.1135,10.5197,West Germany-1,Germany
+No Medal,Claudia Leistner (-Pfrengle),FRG,169,19,56,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Claudia Leistner (-Pfrengle),FRG,169,23,56,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Marina Leonidova,URS,164,17,,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,59.4643,88.3972,Soviet Union-3,Russia
+No Medal,Alyona Igorevna Leonova,RUS,159,19,49,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Alma Lepina (Lce-),LAT,164,17,56,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,56.868,24.3816,Latvia,Latvia
+No Medal,Laura Anneli Lepist,FIN,163,21,52,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,64.941,27.4203,Finland,Finland
+No Medal,Marie-Pierre Leray,FRA,160,18,40,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,46.7326,2.19266,France,France
+No Medal,Mira Leung,CAN,168,16,,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Li Zijun,CHN,161,17,45,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,36.9026,98.5938,China,China
+No Medal,Olena Anatolivna Liashenko,UKR,160,17,48,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Olena Anatolivna Liashenko,UKR,160,21,48,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Olena Anatolivna Liashenko,UKR,160,25,48,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Olena Anatolivna Liashenko,UKR,160,29,48,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Margit Catharina Lindgren,SWE,167,20,53,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,62.1827,14.9052,Sweden,Sweden
+No Medal,Nataliya Vladimirovna Linichuk (-Karponosova),URS,165,19,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,59.4643,88.3972,Soviet Union-3,Russia
+Gold,Nataliya Vladimirovna Linichuk (-Karponosova),URS,165,24,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,59.4643,88.3972,Soviet Union-1,Russia
+Gold,Tara Kristen Lipinski (-Kapostasy),USA,147,15,36,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,37.2472,-99.6968,United States,USA
+No Medal,Yuliya Vyacheslavovna Lipnitskaya,RUS,158,15,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,59.4643,88.3972,Russia,Russia
+Gold,Yuliya Vyacheslavovna Lipnitskaya,RUS,158,15,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Liu Yan,CHN,164,21,52,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,36.9026,98.5938,China,China
+No Medal,Liu Yan,CHN,164,25,52,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,36.9026,98.5938,China,China
+No Medal,Irina Viktorovna Lobacheva (-Averbukh),RUS,165,24,46,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,59.4643,88.3972,Russia-3,Russia
+Silver,Irina Viktorovna Lobacheva (-Averbukh),RUS,165,28,46,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,59.4643,88.3972,Russia-1,Russia
+No Medal,Birgit Lorenz,GDR,150,20,40,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,51.1135,10.5197,East Germany-2,Germany
+No Medal,Luan Bo,CHN,162,18,51,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,36.9026,98.5938,China,China
+No Medal,Roxana Maria Luca,ROU,164,19,55,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,45.9636,24.2451,Romania,Romania
+No Medal,Roxana Maria Luca,ROU,164,23,55,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,45.9636,24.2451,Romania,Romania
+No Medal,Dagmar Lurz (-Prott),FRG,167,17,49,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,51.1135,10.5197,West Germany,Germany
+Bronze,Dagmar Lurz (-Prott),FRG,167,21,49,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,"Janet Lynn (Nowicki-, -Salomon)",USA,158,14,49,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,37.2472,-99.6968,United States,USA
+Bronze,"Janet Lynn (Nowicki-, -Salomon)",USA,158,18,49,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,37.2472,-99.6968,United States,USA
+No Medal,Karen Diane Magnussen (-Cella),CAN,160,15,53,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,56.8373,-110.436,Canada,Canada
+Silver,Karen Diane Magnussen (-Cella),CAN,160,19,53,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Kseniya Olegovna Makarova,RUS,162,17,50,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Tatyana Malinina (-Skornyakova),UZB,160,25,48,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,41.3702,63.3913,Uzbekistan,Uzbekistan
+No Medal,Tatyana Malinina (-Skornyakova),UZB,160,29,48,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,41.3702,63.3913,Uzbekistan,Uzbekistan
+No Medal,Halyna Maniachenko-Yefremenko,UKR,162,21,52,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Halyna Maniachenko-Yefremenko,UKR,162,25,52,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Elizabeth Ann Manley-Theobald,CAN,152,18,49,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,56.8373,-110.436,Canada,Canada
+Silver,Elizabeth Ann Manley-Theobald,CAN,152,22,49,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Valentina Marchei,ITA,161,27,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,42.5005,12.687,Italy,Italy
+No Medal,Valentina Marchei,ITA,161,27,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,42.5005,12.687,Italy,Italy
+No Medal,Valrie Marcoux,CAN,155,25,,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Hana Makov,TCH,168,14,58,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,49.8004,15.5126,Czechoslovakia,Czech Republic
+Bronze,Hana Makov,TCH,168,18,58,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,49.8004,15.5126,Czechoslovakia,Czech Republic
+No Medal,Claudia Massari,FRG,157,18,42,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Katherina Matousek (-Taylor),CAN,160,19,48,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Fleur Maxwell,LUX,158,17,48,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,49.807,6.06572,Luxembourg,Luxembourg
+No Medal,Jenna McCorkell,GBR,165,23,57,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Jenna McCorkell,GBR,165,27,57,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Jenna McCorkell,GBR,165,27,57,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,"Elisabeth ""Betty"" McKilligan",CAN,152,18,47,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Sarah Meier,SUI,164,17,49,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Sarah Meier,SUI,164,21,49,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Sarah Meier,SUI,164,25,49,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,"Kimberley Claire ""Kimmie"" Meissner",USA,160,16,45,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,37.2472,-99.6968,United States,USA
+No Medal,Ma-Brnice Meit,FRA,168,19,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,46.7326,2.19266,France,France
+No Medal,Ma-Brnice Meit,FRA,168,19,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,46.7326,2.19266,France,France
+No Medal,Jenni N. Meno (-Sand),USA,152,21,44,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,Jenni N. Meno (-Sand),USA,152,23,44,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Jenni N. Meno (-Sand),USA,152,27,44,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Isabella Micheli,ITA,164,21,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,42.5005,12.687,Italy,Italy
+No Medal,Elisabeth Mikula,AUT,170,16,57,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,47.694,14.7471,Austria,Austria
+No Medal,Melissa Mary Militano (-Warkmeister),USA,153,16,44,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Lea Ann Miller,USA,157,23,45,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,37.2472,-99.6968,United States-3,USA
+Gold,"Nataliya Yevgenyevna Mishkutyonok (-Shepherd, -Hainline)",EUN,159,21,50,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,59.4643,88.3972,Unified Team-1,Russia
+Silver,"Nataliya Yevgenyevna Mishkutyonok (-Shepherd, -Hainline)",RUS,159,23,50,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,59.4643,88.3972,Russia-2,Russia
+Silver,Irina Valentinovna Moiseyeva (-Minenkova),URS,173,20,,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,59.4643,88.3972,Soviet Union-2,Russia
+Bronze,Irina Valentinovna Moiseyeva (-Minenkova),URS,173,24,,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,59.4643,88.3972,Soviet Union-2,Russia
+No Medal,Sophie Moniotte,FRA,162,22,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,46.7326,2.19266,France-3,France
+No Medal,Sophie Moniotte,FRA,162,24,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,46.7326,2.19266,France-1,France
+No Medal,Sophie Moniotte,FRA,162,28,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,46.7326,2.19266,France-2,France
+No Medal,Kirsten Moore-Towers,CAN,149,21,45,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,56.8373,-110.436,Canada-2,Canada
+Silver,Kirsten Moore-Towers,CAN,149,21,45,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Anas Morand,SUI,153,16,47,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,"Sonja Morgenstern (-Siegel, -Barnick)",GDR,155,13,47,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,51.1135,10.5197,East Germany,Germany
+No Medal,"Sonja Morgenstern (-Siegel, -Barnick)",GDR,155,17,47,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,51.1135,10.5197,East Germany,Germany
+No Medal,Tamara Nikolayevna Moskvina (Bratus-),URS,148,26,44,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,59.4643,88.3972,Soviet Union-3,Russia
+No Medal,Kateina Mrzov,TCH,166,19,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,49.8004,15.5126,Czechoslovakia,Czech Republic
+No Medal,Kateina Mrzov,CZE,166,21,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,49.8004,15.5126,Czech Republic-1,Czech Republic
+No Medal,Kateina Mrzov,CZE,166,25,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Mariya Vladimirovna Mukhortova,RUS,162,24,48,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,59.4643,88.3972,Russia-2,Russia
+No Medal,Irene Mller,GDR,160,25,51,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,51.1135,10.5197,East Germany-2,Germany
+No Medal,Kanako Murakami,JPN,162,19,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Suna Murray (-Gleason),USA,153,16,50,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,37.2472,-99.6968,United States,USA
+No Medal,Kotoe Nagasawa,JPN,154,21,51,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,43.4657,143.335,Japan,Japan
+No Medal,Mirai Aileen Nagasu,USA,162,16,50,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,37.2472,-99.6968,United States,USA
+No Medal,Marianna Nagy,HUN,158,19,48,Figure Skating,Figure Skating Mixed Pairs,F,1948,Winter,47.1592,19.1229,Hungary-2,Hungary
+Bronze,Marianna Nagy,HUN,158,23,48,Figure Skating,Figure Skating Mixed Pairs,F,1952,Winter,47.1592,19.1229,Hungary-1,Hungary
+Bronze,Marianna Nagy,HUN,158,27,48,Figure Skating,Figure Skating Mixed Pairs,F,1956,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Brangre Nau,FRA,155,17,44,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,46.7326,2.19266,France-2,France
+No Medal,Tatyana Aleksandrovna Navka,BLR,170,18,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,53.692,28.0254,Belarus,Belarus
+No Medal,Tatyana Aleksandrovna Navka,BLR,170,22,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,53.692,28.0254,Belarus,Belarus
+No Medal,Tatyana Aleksandrovna Navka,RUS,170,26,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,59.4643,88.3972,Russia-2,Russia
+Gold,Tatyana Aleksandrovna Navka,RUS,170,30,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,59.4643,88.3972,Russia-1,Russia
+No Medal,Patricia Neske (-Barone),GER,158,25,55,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,51.1135,10.5197,Germany,Germany
+No Medal,"Elisabeth ""Liesl"" Nestler",AUT,165,16,52,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,47.694,14.7471,Austria,Austria
+No Medal,Sylwia Nowak (-Trbacka),POL,170,21,58,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Sylwia Nowak (-Trbacka),POL,170,25,58,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,51.9217,19.1588,Poland,Poland
+No Medal,"Albertina Natalie ""Tina"" Noyes",USA,160,15,52,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,37.2472,-99.6968,United States,USA
+No Medal,"Albertina Natalie ""Tina"" Noyes",USA,160,19,52,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,37.2472,-99.6968,United States,USA
+No Medal,Dinara Nurdbayeva,UZB,165,17,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,41.3702,63.3913,Uzbekistan-2,Uzbekistan
+No Medal,Danielle O'Brien,AUS,150,23,46,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,-24.915,133.076,Australia,Australia
+No Medal,Yuliya Nikolayevna Obertas,RUS,152,21,41,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Myriam Oberwiler,SUI,159,21,52,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,46.8119,8.427,Switzerland,Switzerland
+Bronze,Colleen M. O'Connor,USA,160,24,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Kumiko Okawa (-Sato),JPN,157,17,53,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,43.4657,143.335,Japan,Japan
+No Medal,Kumiko Okawa (-Sato),JPN,157,21,53,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,43.4657,143.335,Japan,Japan
+No Medal,Yoshie Onda,JPN,157,19,48,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,43.4657,143.335,Japan,Japan
+No Medal,Kaetlyn Osmond,CAN,163,18,55,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,56.8373,-110.436,Canada,Canada
+Silver,Kaetlyn Osmond,CAN,163,18,55,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Suzanne Otterson,GBR,157,17,52,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,54.3103,-1.90973,Great Britain,UK
+Gold,Lyudmila Alekseyevna Pakhomova (-Gorshkova),URS,164,29,,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,59.4643,88.3972,Soviet Union-1,Russia
+No Medal,Pang Qing,CHN,160,22,46,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,36.9026,98.5938,China-2,China
+No Medal,Pang Qing,CHN,160,26,46,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,36.9026,98.5938,China-2,China
+Silver,Pang Qing,CHN,160,30,46,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,36.9026,98.5938,China-2,China
+No Medal,Pang Qing,CHN,160,34,46,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,36.9026,98.5938,China-1,China
+No Medal,Park Bit-Na,KOR,163,16,43,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,Park So-Yeon,KOR,157,16,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,Alexandra Jane Paul,CAN,161,22,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,56.8373,-110.436,Canada-3,Canada
+No Medal,Inge Paul,GER,160,17,50,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Katrien Pauwels,BEL,165,18,47,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,50.5023,4.84062,Belgium,Belgium
+No Medal,Katrien Pauwels,BEL,165,22,47,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,50.5023,4.84062,Belgium,Belgium
+No Medal,Viktria Pavuk,HUN,168,20,53,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Cheryl Peake,GBR,154,21,43,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,54.3103,-1.90973,Great Britain-1,UK
+No Medal,Nathalie Pchalat,FRA,163,22,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,46.7326,2.19266,France-2,France
+No Medal,Nathalie Pchalat,FRA,163,26,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,46.7326,2.19266,France-2,France
+No Medal,Nathalie Pchalat,FRA,163,30,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,46.7326,2.19266,France-1,France
+No Medal,Nathalie Pchalat,FRA,163,30,50,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,46.7326,2.19266,France,France
+No Medal,Peng Cheng,CHN,157,16,41,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,36.9026,98.5938,China-2,China
+No Medal,Peng Cheng,CHN,157,16,41,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,36.9026,98.5938,China,China
+No Medal,Sofiya Penkova,BUL,164,19,51,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,42.7353,25.1868,Bulgaria,Bulgaria
+No Medal,Eva Hlne Linna Persson,SWE,162,25,53,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,62.1827,14.9052,Sweden,Sweden
+No Medal,Jacqueline Petr,CAN,154,21,44,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Mary Petrie (-Fraser),CAN,166,20,50,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Mariya Igorevna Petrova,RUS,152,24,45,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Mariya Igorevna Petrova,RUS,152,28,45,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,59.4643,88.3972,Russia-2,Russia
+No Medal,Cynthia Phaneuf,CAN,170,22,58,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Mollie Doreen Phillips,GBR,160,24,,Figure Skating,Figure Skating Women's Singles,F,1932,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Mollie Doreen Phillips,GBR,160,28,,Figure Skating,Figure Skating Women's Singles,F,1936,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Phyo Yong-Myong,PRK,150,16,38,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,36.4609,128.017,North Korea,North Korea
+No Medal,Isabelle Pieman,BEL,172,26,58,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,50.5023,4.84062,Belgium,Belgium
+No Medal,"Irja Ester Helena ""Leena"" Pietil (-Vainio)",FIN,165,26,55,Figure Skating,Figure Skating Women's Singles,F,1952,Winter,64.941,27.4203,Finland,Finland
+No Medal,Marylin Pla,FRA,153,21,46,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,46.7326,2.19266,France,France
+No Medal,Nataliya Ponomaryova,UZB,153,19,,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,41.3702,63.3913,Uzbekistan,Uzbekistan
+No Medal,Nataliya Ihorivna Popova,UKR,168,20,52,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Nataliya Ihorivna Popova,UKR,168,20,52,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Janina Danuta Poremska (-Nowakowska),POL,156,19,49,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Teodora Poti,SLO,165,25,54,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,46.1502,14.6159,Slovenia,Slovenia
+No Medal,"Anett Ptzsch (-Witt, -Rauschenbach)",GDR,162,15,55,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,51.1135,10.5197,East Germany,Germany
+Gold,"Anett Ptzsch (-Witt, -Rauschenbach)",GDR,162,19,55,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,51.1135,10.5197,East Germany,Germany
+No Medal,Susanna Kristina Pyki,FIN,159,23,49,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,64.941,27.4203,Finland,Finland
+No Medal,Karen Elizabeth Preston,CAN,157,20,49,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Babette Preuler,GDR,148,15,43,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,51.1135,10.5197,East Germany-3,Germany
+No Medal,Kathryn Pritchard,GBR,152,19,48,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Elizabeth Punsalan,USA,165,23,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,37.2472,-99.6968,United States,USA
+No Medal,Elizabeth Punsalan,USA,165,27,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Tuija Susanna Rahkamo,FIN,160,26,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,64.941,27.4203,Finland,Finland
+No Medal,Tuija Susanna Rahkamo,FIN,160,28,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,64.941,27.4203,Finland,Finland
+No Medal,Nicole Rajiov (Rajic-),SVK,162,18,56,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,48.6747,19.6436,Slovakia,Slovakia
+No Medal,Anna Rechnio,POL,165,16,54,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Anna Rechnio,POL,165,20,54,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Allison Lynn Reed,GEO,165,15,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,42.287,43.6358,Georgia,Georgia
+No Medal,Cathy Reed,JPN,167,22,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,43.4657,143.335,Japan,Japan
+No Medal,Cathy Reed,JPN,167,26,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Cathy Reed,JPN,167,26,53,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Krisztina Regczy,HUN,162,20,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,47.1592,19.1229,Hungary,Hungary
+Silver,Krisztina Regczy,HUN,162,24,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Liliana ehkov (-Stechov),TCH,167,21,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,49.8004,15.5126,Czechoslovakia,Czech Republic
+No Medal,Ivana Reitmayerov,SVK,164,17,51,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,48.6747,19.6436,Slovakia,Slovakia
+No Medal,Diana Rennik,EST,161,20,48,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,58.5935,25.4947,Estonia,Estonia
+No Medal,Danielle Rieder,SUI,163,14,47,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Danielle Rieder,SUI,163,18,47,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Karin Riediger,FRG,168,18,51,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,"Christina ""Tina"" Riegel",FRG,150,14,38,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,"Christina ""Tina"" Riegel",FRG,150,14,38,Figure Skating,Figure Skating Mixed Pairs,F,1980,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Jennifer Robinson (-Dennison),CAN,170,25,55,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Joannie Rochette,CAN,160,20,53,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,56.8373,-110.436,Canada,Canada
+Bronze,Joannie Rochette,CAN,160,24,53,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Inga Sergeyevna Rodionova,AZE,158,17,45,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,40.1478,47.7286,Azerbaijan,Azerbaijan
+Gold,"Irina Konstantinovna Rodnina (-Zaytseva, -Minkovskaya)",URS,152,22,41,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,59.4643,88.3972,Soviet Union-1,Russia
+Gold,"Irina Konstantinovna Rodnina (-Zaytseva, -Minkovskaya)",URS,152,26,41,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,59.4643,88.3972,Soviet Union-1,Russia
+Gold,"Irina Konstantinovna Rodnina (-Zaytseva, -Minkovskaya)",URS,152,30,41,Figure Skating,Figure Skating Mixed Pairs,F,1980,Winter,59.4643,88.3972,Soviet Union-1,Russia
+No Medal,Iryna Romanova,UKR,168,21,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,48.792,31.0623,Ukraine-1,Ukraine
+No Medal,Iryna Romanova,UKR,168,25,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,48.792,31.0623,Ukraine-1,Ukraine
+No Medal,Manuela Ruben,FRG,169,20,54,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Petra Ruhrmann,FRG,165,17,51,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Jamie Rae Sal (-Pelletier),CAN,155,16,50,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,56.8373,-110.436,Canada-3,Canada
+Gold,Jamie Rae Sal (-Pelletier),CAN,155,24,50,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Emily Samuelson,USA,162,19,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,Marina Valterovna Sanaya,URS,143,13,38,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,59.4643,88.3972,Soviet Union,Russia
+No Medal,Kristy-Lee Sargeant (-Wirtz),CAN,152,20,46,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Kristy-Lee Sargeant (-Wirtz),CAN,152,24,46,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,April L. Sargent-Thomas,USA,157,23,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Noriko Sato,JPN,159,24,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,43.4657,143.335,Japan,Japan
+No Medal,Yuka Sato (-Dungjen),JPN,152,18,49,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,43.4657,143.335,Japan,Japan
+No Medal,Yuka Sato (-Dungjen),JPN,152,20,49,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,43.4657,143.335,Japan,Japan
+No Medal,Marie-Claude Savard-Gagnon,CAN,150,25,47,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Aljona Sawtchenko,UKR,153,18,48,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,48.792,31.0623,Ukraine-1,Ukraine
+No Medal,Aljona Sawtchenko,GER,153,22,48,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,51.1135,10.5197,Germany-1,Germany
+Bronze,Aljona Sawtchenko,GER,153,26,48,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,51.1135,10.5197,Germany-1,Germany
+Bronze,Aljona Sawtchenko,GER,153,30,48,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,51.1135,10.5197,Germany-1,Germany
+No Medal,Stfanie Schmid,SUI,165,19,53,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Evelyne Schneider (-Scharf),AUT,168,17,56,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,47.694,14.7471,Austria,Austria
+No Medal,"Beatrix ""Trixi"" Schuba",AUT,170,16,67,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,47.694,14.7471,Austria,Austria
+Gold,"Beatrix ""Trixi"" Schuba",AUT,170,20,67,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,47.694,14.7471,Austria,Austria
+No Medal,Peggy Schwarz,GDR,160,16,48,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,51.1135,10.5197,East Germany,Germany
+No Medal,Peggy Schwarz,GER,160,20,48,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,51.1135,10.5197,Germany-1,Germany
+No Medal,Peggy Schwarz,GER,160,22,48,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,51.1135,10.5197,Germany-1,Germany
+No Medal,Peggy Schwarz,GER,160,26,48,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,51.1135,10.5197,Germany-2,Germany
+No Medal,Jean Atkinson Scott,GBR,161,20,53,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Tiffany Erin Scott,USA,152,24,,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Jlia Sebestyn,HUN,164,16,66,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Jlia Sebestyn,HUN,164,20,66,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Jlia Sebestyn,HUN,164,24,66,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,47.1592,19.1229,Hungary,Hungary
+No Medal,Jlia Sebestyn,HUN,164,28,66,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,47.1592,19.1229,Hungary,Hungary
+Bronze,Larisa Yuryevna Seleznyova (-Makarova),URS,161,20,52,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,59.4643,88.3972,Soviet Union-2,Russia
+No Medal,Larisa Yuryevna Seleznyova (-Makarova),URS,161,24,52,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,59.4643,88.3972,Soviet Union-3,Russia
+No Medal,Suzanne Marie Semanick,USA,157,20,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Margit Senf,GER,170,18,62,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,51.1135,10.5197,Germany-3,Germany
+No Medal,"Helene ""Helli"" Sengstschmid (-Tunner)",AUT,167,19,57,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,47.694,14.7471,Austria,Austria
+No Medal,Aliki Sergaadu,UZB,167,21,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,41.3702,63.3913,Uzbekistan-1,Uzbekistan
+No Medal,Maria Sergejeva,EST,165,17,52,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,58.5935,25.4947,Estonia,Estonia
+No Medal,Wendy Sessions,GBR,163,25,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,54.3103,-1.90973,Great Britain-3,UK
+No Medal,"Natalie Kimberly ""Kim"" Seybold (-Catron)",USA,157,22,44,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,"Gabriele Seyfert (-Rger, -Messerschmidt, -Krner)",GER,160,15,47,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,51.1135,10.5197,Germany,Germany
+Silver,"Gabriele Seyfert (-Rger, -Messerschmidt, -Krner)",GDR,160,19,47,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,51.1135,10.5197,East Germany,Germany
+No Medal,Yelena Lvovna Shcheglova,URS,164,17,63,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,59.4643,88.3972,Soviet Union,Russia
+No Medal,Shen Xue,CHN,160,19,45,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,36.9026,98.5938,China,China
+Bronze,Shen Xue,CHN,160,23,45,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,36.9026,98.5938,China-1,China
+Bronze,Shen Xue,CHN,160,27,45,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,36.9026,98.5938,China-3,China
+Gold,Shen Xue,CHN,160,31,45,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,36.9026,98.5938,China-1,China
+No Medal,Maia Harumi Shibutani,USA,160,19,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,Yevgeniya Vasilyevna Shishkova,EUN,148,19,44,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,59.4643,88.3972,Unified Team-3,Russia
+No Medal,Yevgeniya Vasilyevna Shishkova,RUS,148,21,44,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Jamie Silverstein,USA,160,22,46,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,Viktoriya Aleksandrovna Sinitsina,RUS,166,18,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Irina Eduardovna Slutskaya,RUS,160,18,49,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,59.4643,88.3972,Russia,Russia
+Silver,Irina Eduardovna Slutskaya,RUS,160,23,49,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,59.4643,88.3972,Russia,Russia
+Bronze,Irina Eduardovna Slutskaya,RUS,160,27,49,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,59.4643,88.3972,Russia,Russia
+Silver,Lyudmila Stanislavovna Smirnova (-Ulanova),URS,158,22,48,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,59.4643,88.3972,Soviet Union-2,Russia
+No Medal,Jacqueline Soames,GBR,152,25,,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Yelena Sergeyevna Sokolova,RUS,162,17,51,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Yelena Sergeyevna Sokolova,RUS,162,25,51,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Yuliya Nikolayevna Soldatova,BLR,160,20,52,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,53.692,28.0254,Belarus,Belarus
+Gold,Adelina Dmitriyevna Sotnikova,RUS,163,17,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Rumyana Spasova,BUL,147,17,46,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,42.7353,25.1868,Bulgaria,Bulgaria
+No Medal,Elisa Hope Spitz (-Iuliano),USA,152,20,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,Bohunka rmkov,TCH,165,21,56,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,49.8004,15.5126,Czechoslovakia-1,Czech Republic
+No Medal,Sally-Anne Martine Stapleford,GBR,162,18,54,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Sally-Anne Martine Stapleford,GBR,162,22,54,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,"Alicia Jo ""JoJo"" Starbuck (-Bradshaw, -Gertler)",USA,165,16,50,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,37.2472,-99.6968,United States-3,USA
+No Medal,"Alicia Jo ""JoJo"" Starbuck (-Bradshaw, -Gertler)",USA,165,20,50,Figure Skating,Figure Skating Mixed Pairs,F,1972,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,"Heidemarie ""Heidi"" Steiner (-Walther)",GDR,162,23,50,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,51.1135,10.5197,East Germany-1,Germany
+No Medal,Yelizaveta Stekolnikova,KAZ,173,19,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,48.029,66.3342,Kazakhstan,Kazakhstan
+No Medal,Yelizaveta Stekolnikova,KAZ,173,23,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,48.029,66.3342,Kazakhstan,Kazakhstan
+Silver,Kseniya Andreyevna Stolbova,RUS,158,21,,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,59.4643,88.3972,Russia-2,Russia
+Gold,Kseniya Andreyevna Stolbova,RUS,158,21,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Kerstin Stolfig (-Gerhardt),GDR,165,15,49,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,51.1135,10.5197,East Germany-3,Germany
+No Medal,Irina tork,EST,169,16,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,58.5935,25.4947,Estonia,Estonia
+No Medal,Marianne Streifler,FRG,162,16,45,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,51.1135,10.5197,West Germany-3,Germany
+No Medal,"Ingeborg ""Inge"" Strell",AUT,155,16,50,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,47.694,14.7471,Austria-2,Austria
+No Medal,Faye Strutt (-Marshall),CAN,154,16,54,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Fumie Suguri,JPN,157,21,45,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,43.4657,143.335,Japan,Japan
+No Medal,Fumie Suguri,JPN,157,25,45,Figure Skating,Figure Skating Women's Singles,F,2006,Winter,43.4657,143.335,Japan,Japan
+No Medal,Joanna Sulej,POL,162,20,49,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,51.9217,19.1588,Poland,Poland
+Silver,Rosalynn Diane Sumners (-Kain),USA,155,19,47,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,37.2472,-99.6968,United States,USA
+No Medal,Akiko Suzuki,JPN,160,24,47,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,43.4657,143.335,Japan,Japan
+No Medal,Akiko Suzuki,JPN,160,28,47,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Akiko Suzuki,JPN,160,28,47,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Sandi Sue Sweitzer (-Wagelein),USA,163,21,52,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Tanja Szewczenko,GER,153,16,46,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Zuzanna Szwed (-Parchem),POL,155,14,48,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Narumi Takahashi,JPN,146,22,,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Narumi Takahashi,JPN,146,22,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,43.4657,143.335,Japan,Japan
+No Medal,Marilyn Ruth Take (-Wittstock),CAN,167,19,,Figure Skating,Figure Skating Women's Singles,F,1948,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Tomoko Tanaka,JPN,155,29,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,43.4657,143.335,Japan,Japan
+No Medal,Megan Olwen Devenish Taylor (-Mandeville-Ellis),GBR,157,11,,Figure Skating,Figure Skating Women's Singles,F,1932,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Karin Doris Telser,ITA,155,17,45,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,42.5005,12.687,Italy,Italy
+Bronze,"Debra Janine ""Debi"" Thomas",USA,167,20,53,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,37.2472,-99.6968,United States,USA
+No Medal,Kay Thomson,CAN,160,19,48,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Isabella Tobias,LTU,161,22,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,55.1691,24.1437,Lithuania,Lithuania
+No Medal,Jayne Torvill (-Christensen),GBR,160,22,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,54.3103,-1.90973,Great Britain-1,UK
+Gold,Jayne Torvill (-Christensen),GBR,160,26,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,54.3103,-1.90973,Great Britain-1,UK
+Bronze,Jayne Torvill (-Christensen),GBR,160,36,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Tatyana Ivanovna Totmyanina,RUS,160,20,44,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,59.4643,88.3972,Russia-2,Russia
+Gold,Tatyana Ivanovna Totmyanina,RUS,160,24,44,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,59.4643,88.3972,Russia-1,Russia
+No Medal,Rita Anna Angela Trapanese,ITA,155,16,50,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,42.5005,12.687,Italy,Italy
+No Medal,Rita Anna Angela Trapanese,ITA,155,20,50,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,42.5005,12.687,Italy,Italy
+No Medal,Jill Ann Trenary (-Dean),USA,162,19,52,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,37.2472,-99.6968,United States,USA
+No Medal,Junko Ueno (-Hiramata),JPN,164,17,56,Figure Skating,Figure Skating Women's Singles,F,1960,Winter,43.4657,143.335,Japan,Japan
+No Medal,Junko Ueno (-Hiramata),JPN,164,21,56,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,43.4657,143.335,Japan,Japan
+No Medal,Albta Ukolov,CZE,171,15,56,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Barbara Ann Underhill (-Gaetz),CAN,150,16,45,Figure Skating,Figure Skating Mixed Pairs,F,1980,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Barbara Ann Underhill (-Gaetz),CAN,150,20,45,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Calla Vita Urbanski (-Petka),USA,150,31,42,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,37.2472,-99.6968,United States-2,USA
+Bronze,Maiya Valentinovna Usova (-Orletskaya),EUN,160,27,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,59.4643,88.3972,Unified Team-2,Russia
+Silver,Maiya Valentinovna Usova (-Orletskaya),RUS,160,29,45,Figure Skating,Figure Skating Mixed Ice Dancing,F,1994,Winter,59.4643,88.3972,Russia-2,Russia
+Gold,"Yelena Aleksandrovna Valova (-Vasilyeva, -Galusha)",URS,155,21,47,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,59.4643,88.3972,Soviet Union-1,Russia
+Silver,"Yelena Aleksandrovna Valova (-Vasilyeva, -Galusha)",URS,155,25,47,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,59.4643,88.3972,Soviet Union-2,Russia
+No Medal,Olga Vassiljeva,EST,170,14,,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,58.5935,25.4947,Estonia,Estonia
+No Medal,Marie Vchov,TCH,167,19,55,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,49.8004,15.5126,Czechoslovakia,Czech Republic
+Gold,Tessa Jane Virtue (-McCormick),CAN,165,20,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,56.8373,-110.436,Canada-1,Canada
+Silver,Tessa Jane Virtue (-McCormick),CAN,165,24,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,56.8373,-110.436,Canada-1,Canada
+Silver,Tessa Jane Virtue (-McCormick),CAN,165,24,53,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Yelena Germanovna Vodorezova (-Buyanova),URS,161,12,47,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,59.4643,88.3972,Soviet Union,Russia
+No Medal,Yelena Germanovna Vodorezova (-Buyanova),URS,161,20,47,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,59.4643,88.3972,Soviet Union,Russia
+No Medal,Viktoriya Yevgeniyevna Volchkova,RUS,168,19,52,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Tetiana Andrivna Volosozhar,UKR,159,19,44,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,48.792,31.0623,Ukraine-1,Ukraine
+No Medal,Tetiana Andrivna Volosozhar,UKR,159,23,44,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,48.792,31.0623,Ukraine-1,Ukraine
+Gold,Tetiana Andrivna Volosozhar,RUS,159,27,44,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,59.4643,88.3972,Russia-1,Russia
+Gold,Tetiana Andrivna Volosozhar,RUS,159,27,44,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,59.4643,88.3972,Russia,Russia
+No Medal,Olga Algertovna Volozhinskaya,URS,170,21,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,59.4643,88.3972,Soviet Union-3,Russia
+No Medal,Charlene G. von Saher,GBR,167,19,55,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Irina Nikolayevna Vorobyova,URS,158,17,,Figure Skating,Figure Skating Mixed Pairs,F,1976,Winter,59.4643,88.3972,Soviet Union-2,Russia
+No Medal,Yuliya Valeryevna Vorobyova,EUN,163,17,53,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,59.4643,88.3972,Unified Team,Russia
+No Medal,Yuliya Valeryevna Vorobyova,AZE,163,23,53,Figure Skating,Figure Skating Women's Singles,F,1998,Winter,40.1478,47.7286,Azerbaijan,Azerbaijan
+No Medal,Gillian Margaret Wachsman,USA,155,21,45,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Frances Muriel T. Waghorn (-Robinson),GBR,167,17,56,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Ashley Elisabeth Wagner,USA,160,22,52,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,37.2472,-99.6968,United States,USA
+Bronze,Ashley Elisabeth Wagner,USA,160,22,52,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,37.2472,-99.6968,United States,USA
+No Medal,Charlotte Walter,SUI,167,16,53,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Charlotte Walter,SUI,167,20,53,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Linda Ward (-Purdy),CAN,154,16,58,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,56.8373,-110.436,Canada-3,Canada
+No Medal,Carol-Ann Warner,GBR,164,18,56,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,54.3103,-1.90973,Great Britain,UK
+No Medal,Emi Catherine Watanabe,JPN,152,16,45,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,43.4657,143.335,Japan,Japan
+No Medal,Emi Catherine Watanabe,JPN,152,20,45,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,43.4657,143.335,Japan,Japan
+No Medal,Nozomi Watanabe,JPN,158,34,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,43.4657,143.335,Japan,Japan
+No Medal,Jill Marilynn Watson,USA,150,20,42,Figure Skating,Figure Skating Mixed Pairs,F,1984,Winter,37.2472,-99.6968,United States-2,USA
+Bronze,Jill Marilynn Watson,USA,150,24,42,Figure Skating,Figure Skating Mixed Pairs,F,1988,Winter,37.2472,-99.6968,United States-1,USA
+No Medal,Kaitlyn Elizabeth Weaver,CAN,167,24,53,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,Marion Weber,GDR,166,16,54,Figure Skating,Figure Skating Women's Singles,F,1976,Winter,51.1135,10.5197,East Germany,Germany
+No Medal,Kristiina Marketta Wegelius (-Fitzpatrick),FIN,162,19,51,Figure Skating,Figure Skating Women's Singles,F,1980,Winter,64.941,27.4203,Finland,Finland
+No Medal,Nathalie Weinzierl,GER,159,19,,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Nathalie Weinzierl,GER,159,19,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Teresa Urszula Weyna (-Urban),POL,163,25,40,Figure Skating,Figure Skating Mixed Ice Dancing,F,1976,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Lorna Wighton (-Aldridge),CAN,162,21,48,Figure Skating,Figure Skating Mixed Ice Dancing,F,1980,Winter,56.8373,-110.436,Canada,Canada
+Silver,"Deborah ""Debbi"" Wilkes (-Darroch)",CAN,160,17,57,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Isadora Marie Williams,BRA,156,17,47,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,-14.2453,-49.7257,Brazil,Brazil
+No Medal,Tracy Wilson (-Kinsella),CAN,167,22,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,56.8373,-110.436,Canada-1,Canada
+Bronze,Tracy Wilson (-Kinsella),CAN,167,26,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Constance Montgomery Wilson-Samuel (-Slatkin),CAN,165,20,59,Figure Skating,Figure Skating Women's Singles,F,1928,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Constance Montgomery Wilson-Samuel (-Slatkin),CAN,165,24,59,Figure Skating,Figure Skating Women's Singles,F,1932,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Constance Montgomery Wilson-Samuel (-Slatkin),CAN,165,24,59,Figure Skating,Figure Skating Mixed Pairs,F,1932,Winter,56.8373,-110.436,Canada-1,Canada
+No Medal,Constance Montgomery Wilson-Samuel (-Slatkin),CAN,165,28,59,Figure Skating,Figure Skating Women's Singles,F,1936,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Megan Wing,CAN,164,30,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,56.8373,-110.436,Canada-2,Canada
+No Medal,"Katrin ""Kati"" Winkler (-Schneider)",GER,170,24,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,1998,Winter,51.1135,10.5197,Germany,Germany
+No Medal,"Katrin ""Kati"" Winkler (-Schneider)",GER,170,28,56,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,51.1135,10.5197,Germany,Germany
+Gold,Katarina Witt,GDR,165,18,55,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,51.1135,10.5197,East Germany,Germany
+Gold,Katarina Witt,GDR,165,22,55,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,51.1135,10.5197,East Germany,Germany
+No Medal,Katarina Witt,GER,165,28,55,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,51.1135,10.5197,Germany,Germany
+No Medal,Brigitte Wokoeck,GER,164,17,56,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,51.1135,10.5197,Germany-2,Germany
+No Medal,Charlene Wong,CAN,165,21,52,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,56.8373,-110.436,Canada,Canada
+No Medal,Regina Woodward,HUN,174,21,68,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,47.1592,19.1229,Hungary-2,Hungary
+No Medal,Mandy Wtzel,GER,150,18,40,Figure Skating,Figure Skating Mixed Pairs,F,1992,Winter,51.1135,10.5197,Germany-2,Germany
+No Medal,Mandy Wtzel,GER,150,20,40,Figure Skating,Figure Skating Mixed Pairs,F,1994,Winter,51.1135,10.5197,Germany-3,Germany
+Bronze,Mandy Wtzel,GER,150,24,40,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,51.1135,10.5197,Germany-1,Germany
+No Medal,"Susan Elizabeth ""Susie"" Wynne (-Barth)",USA,157,22,52,Figure Skating,Figure Skating Mixed Ice Dancing,F,1988,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Xi Hongyan,CHN,165,19,51,Figure Skating,Figure Skating Mixed Ice Dancing,F,1984,Winter,36.9026,98.5938,China,China
+No Medal,Junko Yaginuma,JPN,157,14,44,Figure Skating,Figure Skating Women's Singles,F,1988,Winter,43.4657,143.335,Japan,Japan
+Gold,"Kristine Tsuya ""Kristi"" Yamaguchi (-Hedican)",USA,152,20,42,Figure Skating,Figure Skating Women's Singles,F,1992,Winter,37.2472,-99.6968,United States,USA
+No Medal,Kazumi Yamashita (-Oonishi),JPN,166,19,57,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,43.4657,143.335,Japan,Japan
+No Medal,Kazumi Yamashita (-Oonishi),JPN,166,23,57,Figure Skating,Figure Skating Women's Singles,F,1972,Winter,43.4657,143.335,Japan,Japan
+No Medal,Yang Tae-Hwa,KOR,155,20,50,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,36.4609,128.017,South Korea,South Korea
+No Medal,Marina Alekseyevna Yeltsova,RUS,157,28,44,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,59.4643,88.3972,Russia-3,Russia
+No Medal,Dominique Yvon (-Laporte),FRA,173,23,54,Figure Skating,Figure Skating Mixed Ice Dancing,F,1992,Winter,46.7326,2.19266,France-2,France
+No Medal,Anna Mykolavna Zadorozhniuk,UKR,164,25,49,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,48.792,31.0623,Ukraine,Ukraine
+No Medal,Dorota Magdalena Zagrska-Siudek,POL,155,22,44,Figure Skating,Figure Skating Mixed Pairs,F,1998,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Dorota Magdalena Zagrska-Siudek,POL,155,26,44,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Dorota Magdalena Zagrska-Siudek,POL,155,30,44,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,51.9217,19.1588,Poland,Poland
+No Medal,Alexandra Zaretski,ISR,160,18,55,Figure Skating,Figure Skating Mixed Ice Dancing,F,2006,Winter,31.4553,34.6746,Israel-2,Israel
+No Medal,Alexandra Zaretski,ISR,160,22,55,Figure Skating,Figure Skating Mixed Ice Dancing,F,2010,Winter,31.4553,34.6746,Israel,Israel
+No Medal,Elaine Kathryn Zayak,USA,157,18,50,Figure Skating,Figure Skating Women's Singles,F,1984,Winter,37.2472,-99.6968,United States,USA
+No Medal,Irena Zemanov,CZE,166,16,48,Figure Skating,Figure Skating Women's Singles,F,1994,Winter,49.8004,15.5126,Czech Republic,Czech Republic
+No Medal,Zhang Dan,CHN,167,16,48,Figure Skating,Figure Skating Mixed Pairs,F,2002,Winter,36.9026,98.5938,China-3,China
+Silver,Zhang Dan,CHN,167,20,48,Figure Skating,Figure Skating Mixed Pairs,F,2006,Winter,36.9026,98.5938,China-1,China
+No Medal,Zhang Dan,CHN,167,24,48,Figure Skating,Figure Skating Mixed Pairs,F,2010,Winter,36.9026,98.5938,China-3,China
+No Medal,Felicia Zhang,USA,155,20,46,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,37.2472,-99.6968,United States-2,USA
+No Medal,Zhang Kexin,CHN,153,18,43,Figure Skating,Figure Skating Women's Singles,F,2014,Winter,36.9026,98.5938,China,China
+No Medal,Zhang Kexin,CHN,153,18,43,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,36.9026,98.5938,China,China
+No Medal,Stephanie Zhang,AUS,167,16,56,Figure Skating,Figure Skating Women's Singles,F,2002,Winter,-24.915,133.076,Australia,Australia
+No Medal,Zhang Weina,CHN,166,23,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2002,Winter,36.9026,98.5938,China,China
+No Medal,Nelli Zhiganshina,GER,165,26,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,51.1135,10.5197,Germany-1,Germany
+No Medal,Nelli Zhiganshina,GER,165,26,,Figure Skating,Figure Skating Mixed Team,F,2014,Winter,51.1135,10.5197,Germany,Germany
+No Medal,"Tatyana Alekseyevna Zhuk (-Shesternyova, -Sokolova)",URS,156,18,52,Figure Skating,Figure Skating Mixed Pairs,F,1964,Winter,59.4643,88.3972,Soviet Union-2,Russia
+Silver,"Tatyana Alekseyevna Zhuk (-Shesternyova, -Sokolova)",URS,156,22,52,Figure Skating,Figure Skating Mixed Pairs,F,1968,Winter,59.4643,88.3972,Soviet Union-2,Russia
+No Medal,Miriam Ziegler,AUT,154,15,47,Figure Skating,Figure Skating Women's Singles,F,2010,Winter,47.694,14.7471,Austria,Austria
+No Medal,Miriam Ziegler,AUT,154,19,47,Figure Skating,Figure Skating Mixed Pairs,F,2014,Winter,47.694,14.7471,Austria,Austria
+No Medal,Eileen Zillmer,FRG,170,15,49,Figure Skating,Figure Skating Women's Singles,F,1968,Winter,51.1135,10.5197,West Germany,Germany
+No Medal,Monika Zingg,SUI,168,20,56,Figure Skating,Figure Skating Women's Singles,F,1964,Winter,46.8119,8.427,Switzerland,Switzerland
+No Medal,Yuliya Zlobina,AZE,158,24,,Figure Skating,Figure Skating Mixed Ice Dancing,F,2014,Winter,40.1478,47.7286,Azerbaijan,Azerbaijan
