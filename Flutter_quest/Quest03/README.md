@@ -31,9 +31,7 @@
 
 
 ## 프로토타이핑 (사용 툴 : marvel)
-
-[![시연 영상](Flutter_quest/Quest03/플러터로 디자인 구현하기/역설계 과정/프로토타입 시연 영상.gif]
-
+<img width="80%" src="https://github.com/Ligoan/quest/blob/main/Flutter_quest/Quest03/%ED%94%8C%EB%9F%AC%ED%84%B0%EB%A1%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/%EC%97%AD%EC%84%A4%EA%B3%84%20%EA%B3%BC%EC%A0%95/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.gif"/>
 
 
 ## 페이지 구현
@@ -46,7 +44,7 @@
 
 
 ## 구현 영상 
-[![구현 영상]([[https://Flutter_quest/Quest03/플러터로 디자인 구현하기/역설계 과정/플러터로 역설계 구현 결과.mp4)](https://github.com/Ligoan/quest/blob/main/Flutter_quest/Quest03/%ED%94%8C%EB%9F%AC%ED%84%B0%EB%A1%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/%EC%97%AD%EC%84%A4%EA%B3%84%20%EA%B3%BC%EC%A0%95/%ED%94%8C%EB%9F%AC%ED%84%B0%EB%A1%9C%20%EC%97%AD%EC%84%A4%EA%B3%84%20%EA%B5%AC%ED%98%84%20%EA%B2%B0%EA%B3%BC.gif?raw=true)]
+(https://github.com/Ligoan/quest/blob/main/Flutter_quest/Quest03/%ED%94%8C%EB%9F%AC%ED%84%B0%EB%A1%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/%EC%97%AD%EC%84%A4%EA%B3%84%20%EA%B3%BC%EC%A0%95/%ED%94%8C%EB%9F%AC%ED%84%B0%EB%A1%9C%20%EC%97%AD%EC%84%A4%EA%B3%84%20%EA%B5%AC%ED%98%84%20%EA%B2%B0%EA%B3%BC.gif?raw=true)]
 <img width="80%" src="https://github.com/Ligoan/quest/blob/main/Flutter_quest/Quest03/%ED%94%8C%EB%9F%AC%ED%84%B0%EB%A1%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/%EC%97%AD%EC%84%A4%EA%B3%84%20%EA%B3%BC%EC%A0%95/%ED%94%8C%EB%9F%AC%ED%84%B0%EB%A1%9C%20%EC%97%AD%EC%84%A4%EA%B3%84%20%EA%B5%AC%ED%98%84%20%EA%B2%B0%EA%B3%BC.gif"/>
 
 
