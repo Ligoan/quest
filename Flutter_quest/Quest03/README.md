@@ -38,7 +38,7 @@
 1. main.dart - 메인 화면으로 기본적인 구성으로만 작성 되어 있습니다.  
 2. home_screen.dart - 홈 페이지  
 3. learn_screen.dart - 학습 목록 게재 페이지  
-4. content_play_screen.dart - 콘텐츠 영상 시청 페이시  
+4. content_play_screen.dart - 콘텐츠 영상 시청 페이지  
 5. config_screen.dart - 설정 페이지
 
 
