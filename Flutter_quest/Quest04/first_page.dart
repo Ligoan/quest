@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:flutter_markdown/flutter_markdown.dart';
+//import 'package:flutter_markdown/flutter_markdown.dart';
 
 class FirstPage extends StatefulWidget {
   @override
@@ -9,14 +9,15 @@ class FirstPage extends StatefulWidget {
 }
 
 class _FirstPageState extends State<FirstPage> {
-  String prediction  = "";   // 분류 결과
-  String probability = "";   // 확률
+  String prediction = ""; // 분류 결과
+  String probability = ""; // 확률
   String result = "";
-  String server_url = 'https://f0cf-121-143-147-92.ngrok-free.app/sample';   // 서버 주소
+  String server_url =
+      'https://f0cf-121-143-147-92.ngrok-free.app/sample'; // 서버 주소
   Future<void> fetchData() async {
     try {
       final response = await http.get(
-        Uri.parse(server_url + "/sample"),
+        Uri.parse(server_url),
         headers: {
           'Content-Type': 'application/json',
           'ngrok-skip-browser-warning': '69420',
@@ -25,7 +26,7 @@ class _FirstPageState extends State<FirstPage> {
       if (response.statusCode == 200) {
         final data = jsonDecode(response.body);
         setState(() {
-          prediction  = data['Prediction'];   
+          prediction = data['Prediction'];
           probability = data['Probability'];
         });
       } else {
@@ -43,53 +44,40 @@ class _FirstPageState extends State<FirstPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        // 앱바 타이틀, 해파리 아이콘
-        leading: Image.asset(
-          'lib/jellyfish/앱바해파리.jfif',
-          width: 30,
-          height: 30,
+        appBar: AppBar(
+          // 앱바 타이틀, 해파리 아이콘
+          leading: Image.asset(
+            'lib/jellyfish/앱바해파리.jfif',
+            width: 30,
+            height: 30,
+          ),
+          title: Text('Jellyfish Classifier'),
         ),
-        title: Text('Jellyfish Classifier'),
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Padding(
-              padding: EdgeInsets.only(bottom: 30.0),
-              child: Image.asset(
-                'lib/jellyfish/jellyfish.jpg',
-                width: 300,
-                height: 300,
-              ),
-            ),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                ElevatedButton(
-                  onPressed: fetchData,
-                  child: Text("분류하기")
-                ),
-                SizedBox(height: 20),
-                Expanded(
-                  child: Markdown(
-                    data: prediction)
-                  ),
-                ElevatedButton(
-                  onPressed: fetchData,
-                  child: Text("확률")
-                ),
-                SizedBox(height: 20),
-                Expanded(
-                  child: Markdown(
-                    data: probability)
-                  )
-              ]
-            )
-          ]
-        )
-      )
-    );
+        body: Center(
+            child:
+                Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+              child: Image.asset('lib/jellyfish/jellyfish.jpg'),
+              width: 200,
+              height: 200),
+          Container(
+            width: 200,
+            height: 200,
+            child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
+              ElevatedButton(onPressed: fetchData, child: Text("분류")),
+              SizedBox(width: 20),
+              ElevatedButton(onPressed: fetchData, child: Text("확률")),
+            ]),
+          ),
+          Container(
+            width: 200,
+            height: 100,
+            child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
+              Expanded(flex: 1, child: Text(prediction)),
+              SizedBox(width: 100),
+              Expanded(flex: 1, child: Text(probability))
+            ]),
+          ),
+        ])));
   }
 }
