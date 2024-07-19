@@ -11,13 +11,13 @@
 ## 정보 구조
 
 
-[image](https://github.com/user-attachments/assets/048f5da2-9429-4eb1-a80f-271256766de8)
+![image](https://github.com/user-attachments/assets/048f5da2-9429-4eb1-a80f-271256766de8)
 
 <br><br>
 
 ## 앱 와이어프레임 (사용 툴 : drawio)
 
-[image](https://github.com/user-attachments/assets/d2140492-f7b1-406d-a7a7-fc9e4c56f966)
+![image](https://github.com/user-attachments/assets/d2140492-f7b1-406d-a7a7-fc9e4c56f966)
 
 <br><br>
 
